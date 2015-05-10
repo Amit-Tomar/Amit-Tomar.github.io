@@ -26,6 +26,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Social Media Icons
  */
 
 
@@ -501,4 +502,21 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
+}
+
+/*Social media icons*/
+
+.fa-facebook-square
+{
+    color: #3B5998;
+}
+
+.fa-twitter-square
+{
+    color: #5EA9DD;
+}
+
+.fa-goolge-plus-square
+{
+    color: #DD4B39;
 }

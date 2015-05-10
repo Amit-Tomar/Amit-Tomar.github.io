@@ -27,6 +27,7 @@
  * Reverse layout
  * Themes
  * Social Media Icons
+ * Images
  */
 
 
@@ -534,4 +535,20 @@ a.pagination-item:hover {
 .fa-envelope-o
 {
     color: #007AB5;
+}
+
+/*Responsive images*/
+
+.image-wrapper{
+  max-width:90%;
+  height:auto;
+  position: relative;
+  display:block;
+  margin:0 auto;
+}
+
+.image-wrapper img{
+  max-width:100% !important;
+  height:auto;
+  display:block;
 }

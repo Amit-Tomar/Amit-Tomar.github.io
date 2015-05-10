@@ -26,6 +26,8 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Social Media Icons
+ * Images
  */
 
 
@@ -501,4 +503,52 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
+}
+
+/*Social media icons*/
+
+.fa-facebook-square
+{
+    color: #3B5998;
+}
+
+.fa-twitter-square
+{
+    color: #5EA9DD;
+}
+
+.fa-google-plus-square
+{
+    color: #DD4B39;
+}
+
+.fa-behance-square
+{
+    color: #4176FA;
+}
+
+.fa-linkedin-square
+{
+    color: #007AB5;
+}
+
+.fa-envelope-o
+{
+    color: #007AB5;
+}
+
+/*Responsive images*/
+
+.image-wrapper{
+  max-width:90%;
+  height:auto;
+  position: relative;
+  display:block;
+  margin:0 auto;
+}
+
+.image-wrapper img{
+  max-width:100% !important;
+  height:auto;
+  display:block;
 }

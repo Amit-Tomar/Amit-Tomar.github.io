@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 ---
-{% comment %}
 
 * <i class="fa fa-github-square fa-lg"></i> [GitHub](https://github.com/Amit-Tomar)
 * <i class="fa fa-facebook-square fa-lg"></i> [Facebook](https://www.facebook.com/agent.napster)
@@ -10,4 +9,3 @@ title: Contact
 * <i class="fa fa-behance-square fa-lg"></i> [Behance](https://www.behance.net/amitTomar)
 * or simply <i class="fa fa-envelope-o fa-lg"></i>
  [Email Me](mailto:a.tomar@outlook.com) !
- {% endcomment %}

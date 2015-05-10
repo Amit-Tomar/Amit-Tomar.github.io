@@ -297,9 +297,10 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
   border-radius: 5px;
-}
+  margin: 0 auto;
+  padding-top: 5%; 
+} /*Aligns the image at center*/
 
 /* Tables */
 table {
@@ -552,3 +553,4 @@ a.pagination-item:hover {
   height:auto;
   display:block;
 }
+

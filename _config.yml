@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               'Amit Tomar'
 tagline:             'At the cusp of Arts and Computer Science..'
-description:         'Amit Tomar - Programmer, Runner, Human Being.'
+description:         'Programmer - Runner - Human Being'
 #url:                'http://127.0.0.1:4000'
 url:		         'http://amit-tomar.github.io'
 baseurl:             ''

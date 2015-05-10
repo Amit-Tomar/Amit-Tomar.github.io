@@ -114,9 +114,17 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (max-width: 48em) {
-  .masthead-title {
-    text-align: center;
+/*Manage navigation link size based on the window size*/
+@media (max-width: 58em) {
+  .masthead-title small {
+    font-size: 60%;
+    display: inline-block;
+  }
+}
+
+@media (max-width: 45em) {
+  .homeLink {
+    float: right;
   }
   .masthead-title small {
     display: none;
@@ -157,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: .65rem; /* 14px */
   }
 }
 

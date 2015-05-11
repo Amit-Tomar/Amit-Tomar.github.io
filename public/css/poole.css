@@ -294,6 +294,7 @@ blockquote p:last-child {
   }
 }
 
+/*Display Image*/
 img {
   display: block;
   max-width: 100%;
@@ -301,6 +302,15 @@ img {
   margin: 0 auto;
   padding-top: 5%; 
 } /*Aligns the image at center*/
+
+/*Up Arrow*/
+.up-arrow {
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  z-index: 10;
+
+} /*Aligns the image at right bottom and keep floating*/
 
 /* Tables */
 table {
@@ -454,7 +464,6 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
-
 /*
  * Pagination
  *
@@ -537,6 +546,12 @@ a.pagination-item:hover {
 {
     color: #007AB5;
 }
+
+.fa-youtube-play
+{
+    color: #D62423;
+}
+
 
 /*Responsive images*/
 

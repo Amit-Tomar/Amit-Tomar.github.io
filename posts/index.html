@@ -25,7 +25,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">  
 </head>
@@ -62,12 +62,6 @@
       
     
       
-        
-          <a class="sidebar-nav-item" href="/about/">About</a>
-        
-      
-    
-      
     
       
         
@@ -99,11 +93,9 @@
 <!--     <span class="sidebar-nav-item">Currently v1.0.0</span>
  -->  </nav>
 
-  <!--   <div class="sidebar-item">
-      <p>
+    <div class="sidebar-item">
         &copy; 2015. All rights reserved.
-      </p>
-    </div> -->
+    </div>
 </div>
 
 
@@ -121,11 +113,6 @@
 <small>
   <ul class="nav">
   
-    
-  
-    
-      
-      <li><a href="/about/">About</a></li>
     
   
     
@@ -176,7 +163,7 @@
                 
                   <li>
                     <a href="/personal/2014/01/01/Post%202/">
-                      Example content                      
+                      Hello World!                      
                     </a>
                     <time class='archive-date'>1 January 2014</time>
                   </li>
@@ -196,13 +183,16 @@ Page generated: 11 May 2015
   <div class="post">
     <h1 class="post-title">
       <a href="/personal/2014/01/01/Post%202/">
-        Example content
+        Hello World!
       </a>
     </h1>
 
     <span class="post-date">01 Jan 2014</span>
 
-    <p>This is just for testing.</p>
+    <p><small>Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with <a href="http://jekyllrb.com/">Jekyll</a> or <a href="https://github.com/poole/lanyon">poole</a> to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated <a href="https://disqus.com/">DISQUS</a> for comments, took some lovely icons from <a href="http://fortawesome.github.io/Font-Awesome/">FontAwesome</a>, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. <a href="http://markdotto.com/">Mark Dotto’s</a> website is a great inspiration on asthetics. I hope I will be able to focus more on content now than on the feel of it. </small></p>
+
+<p><small> Feel free to share how it looks now in comments! </small></p>
+
 
   </div>
    -->  
@@ -224,7 +214,9 @@ Page generated: 11 May 2015
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    <i class="fa fa-chevron-up fa-3x up-arrow style="display:none""></i>    
     
+
 
     <script>
       (function(document) {
@@ -242,6 +234,24 @@ Page generated: 11 May 2015
           checkbox.checked = false;
         }, false);
       })(document);
+
+       // Scroll page up on clicking the up image
+       $(".up-arrow").click(function(){ $('html, body').animate({ scrollTop: 0 }, 'slow'); });
+
+       window.onscroll = function(ev) 
+       {
+          if ((window.scrollY) >= 10 )
+            $(".up-arrow").show()
+          else 
+            $(".up-arrow").hide()
+       };
+
+       window.onload= function()
+       {
+          if ((window.scrollY) <= 10 )
+          $(".up-arrow").hide()           
+       }
+
     </script>
   </body>
 </html>

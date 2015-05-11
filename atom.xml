@@ -4,7 +4,7 @@
  <title>Amit Tomar</title>
  <link href="http://amit-tomar.github.io/atom.xml" rel="self"/>
  <link href="http://amit-tomar.github.io/"/>
- <updated>2015-05-11T15:12:36+05:30</updated>
+ <updated>2015-05-11T20:06:49+05:30</updated>
  <id>http://amit-tomar.github.io</id>
  <author>
    <name>Amit Tomar</name>
@@ -13,11 +13,14 @@
 
  
  <entry>
-   <title>Example content</title>
+   <title>Hello World!</title>
    <link href="http://amit-tomar.github.io/personal/2014/01/01/Post%202/"/>
    <updated>2014-01-01T00:00:00+05:30</updated>
    <id>http://amit-tomar.github.io/personal/2014/01/01/Post 2</id>
-   <content type="html">&lt;p&gt;This is just for testing.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;small&gt;Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;poole&lt;/a&gt; to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated &lt;a href=&quot;https://disqus.com/&quot;&gt;DISQUS&lt;/a&gt; for comments, took some lovely icons from &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;FontAwesome&lt;/a&gt;, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Dotto’s&lt;/a&gt; website is a great inspiration on asthetics. I hope I will be able to focus more on content now than on the feel of it. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; Feel free to share how it looks now in comments! &lt;/small&gt;&lt;/p&gt;
+
 </content>
  </entry>
  

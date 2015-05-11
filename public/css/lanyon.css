@@ -114,6 +114,11 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
+.heading-center
+{
+    text-align: center;
+}
+
 /*Manage navigation link size based on the window size*/
 @media (max-width: 58em) {
   .masthead-title small {

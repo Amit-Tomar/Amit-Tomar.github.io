@@ -280,6 +280,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+#madeBy, #copyRight { text-align: center; }
+#copyRight{ padding: .75em; }
+
 /* Slide effect
  *
  * Handle the sliding effects of the sidebar and content in one spot, seperate

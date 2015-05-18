@@ -181,7 +181,7 @@
  
      <div id="personal">     
          <h2>Personal</h2>
-         <small> <i class="fa fa-rss-square fa-lg"></i> <a href= /feeds/feed.category.xml target='_blank'>Subscribe RSS Feed by cateogry</a> </small>
+         <small> <i class="fa fa-rss-square fa-lg"></i> <a href= /feeds/feed.xml target='_blank'>Subscribe RSS Feed by cateogry</a> </small>
          
          <ul>
             

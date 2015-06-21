@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> - Links</title>
+		<description>Programmer - Runner - Human Being</description>
+		<link>http://amit-tomar.github.io</link>
+		<atom:link href="http://amit-tomar.github.io/feed.links.xml" rel="self" type="application/rss+xml" />
+		
+			
+		
+			
+		
+	</channel>
+</rss>

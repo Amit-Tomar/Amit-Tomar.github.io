@@ -108,8 +108,6 @@ content: none;
 }
 
 
-
-
 .wrap a strong {
   color: inherit;
 }
@@ -194,7 +192,13 @@ dd {
   margin-bottom: .5rem;
 }
 
-/* Misc */
+.feedCentered{
+
+float: center;
+  text-align: center;
+}
+
+/* Misc Horizontal Rule Divider */
 hr {
   position: relative;
   margin: 1.5rem 0;
@@ -202,6 +206,16 @@ hr {
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
 }
+
+hr#divider {
+  height:1px; 
+  border:none; 
+  background-color:#eee; 
+  width:50%; 
+  text-align:center;
+  margin: auto auto 35px auto ;
+}
+
 
 abbr {
   font-size: 85%;
@@ -560,6 +574,12 @@ a.pagination-item:hover {
 {
     color: #F47A1F;
 }
+
+.fa-rss-square
+{
+    color: #F48025;
+}
+
 
 /*Responsive images*/
 

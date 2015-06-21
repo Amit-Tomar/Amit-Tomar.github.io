@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> - Articles</title>
+		<description>Programmer - Runner - Human Being</description>
+		<link>http://amit-tomar.github.io</link>
+		<atom:link href="http://amit-tomar.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
+		
+			
+			<item>
+				<title>Choosing Thesis, Why and How?</title>
+				
+					<description>&lt;p&gt;&lt;big&gt; Recently we defended our respective thesis work of six months at IIITB. This write up describes the overall experience and some suggestions for anyone who might be interested in taking up thesis. &lt;/big&gt; ( With inputs from &lt;a href=&quot;http://shivam-agarwal.github.io&quot;&gt;Shivam&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt;) &lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 18 Jun 2015 00:00:00 +0530</pubDate>
+				<link>http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Hello World!</title>
+				
+					<description>&lt;p&gt;&lt;small&gt;Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;poole&lt;/a&gt; to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated &lt;a href=&quot;https://disqus.com/&quot;&gt;DISQUS&lt;/a&gt; for comments, took some lovely icons from &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;FontAwesome&lt;/a&gt;, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Dotto&amp;#8217;s&lt;/a&gt; website is a great inspiration on aesthetics. I hope I will be able to focus more on content now than on the feel of it. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; Feel free to share how it looks now in comments! &lt;/small&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
+				<link>http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
+			</item>
+			
+		
+	</channel>
+</rss>

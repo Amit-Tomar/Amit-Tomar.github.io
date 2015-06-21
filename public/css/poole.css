@@ -294,13 +294,27 @@ blockquote p:last-child {
   }
 }
 
+/*Display Image*/
 img {
   display: block;
   max-width: 100%;
   border-radius: 5px;
   margin: 0 auto;
-  padding-top: 5%; 
+  padding-top: 0%; 
 } /*Aligns the image at center*/
+
+#authorImage{
+  margin-top: 5%; 
+}
+
+/*Up Arrow*/
+.up-arrow {
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  z-index: 10;
+
+} /*Aligns the image at right bottom and keep floating*/
 
 /* Tables */
 table {
@@ -454,7 +468,6 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
-
 /*
  * Pagination
  *
@@ -538,6 +551,16 @@ a.pagination-item:hover {
     color: #007AB5;
 }
 
+.fa-youtube-play
+{
+    color: #D62423;
+}
+
+.fa-stack-overflow
+{
+    color: #F47A1F;
+}
+
 /*Responsive images*/
 
 .image-wrapper{
@@ -552,5 +575,9 @@ a.pagination-item:hover {
   max-width:100% !important;
   height:auto;
   display:block;
+}
+
+img{
+    box-shadow: 0 0 10px #DFDFDF;
 }
 

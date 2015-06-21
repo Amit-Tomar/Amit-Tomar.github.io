@@ -1,28 +1,180 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Amit Tomar</title>
+ <link href="http://amit-tomar.github.io/atom.xml" rel="self"/>
+ <link href="http://amit-tomar.github.io/"/>
+ <updated>2015-06-21T23:46:06+05:30</updated>
+ <id>http://amit-tomar.github.io</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Amit Tomar</name>
+   <email>a.tomar@outlook.com</email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Choosing Thesis, Why and How?</title>
+   <link href="http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/"/>
+   <updated>2015-06-18T00:00:00+05:30</updated>
+   <id>http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why</id>
+   <content type="html">&lt;p&gt;&lt;big&gt; Recently we defended our respective thesis work of six months at IIITB. This write up describes the overall experience and some suggestions for anyone who might be interested in taking up thesis. &lt;/big&gt; ( With inputs from &lt;a href=&quot;http://shivam-agarwal.github.io&quot;&gt;Shivam&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt;) &lt;/p&gt;
+
+&lt;h3 id=&quot;why-did-i-choose-thesis-over-an-internship-&quot;&gt;Why did I choose thesis over an internship ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt;I had around two and half year of work experience before I joined IIITB. So it was a little easier for me to take a decision. I believe that an internship is more or less just IT experience, which I already had. Thesis is an opportunity which would be difficult to get again in life. The idea of getting to work with Profs. for almost six months was more exciting to me than doing an internship. I did apply for one particular company before making this decision official. I was very interested in it and it offered only internships to full time conversions. Once I couldn’t clear their interviews, I was sure I wanted to do a thesis.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-worked-on-&quot;&gt;What I worked on ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt;I worked with &lt;a href=&quot;http://www.iiitb.ac.in/people/faculty/content/49&quot;&gt;Prof. Jaya Sreevalsan-Nair&lt;/a&gt; and my thesis was titled ‘Augmenting NodeTrix for Effective Small World Network Visualization’. It involved some improvements over the existing visualization called NodeTrix. I used D3.js and OpenGL for the implementation part. I had taken a reading elective on ‘Small World Networks’ in the third semester and this work was a logical extension to it. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://amit-tomar.github.io/images/Thesis.png&quot; alt=&quot;Augmented NodeTrix&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;Augmented NodeTrix&lt;/center&gt;
+
+&lt;h3 id=&quot;what-was-the-overall-experience-like-&quot;&gt;What was the overall experience like ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt;It was fun overall. Yes, there were times of frustration, boredom, feeling helpless, but overall it was greatly satisfying. This would not have been possible without the presence of Srinivas, Shivam and Prashant around, during this period. &lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;possible-misconceptions-about-thesis&quot;&gt;Possible Misconceptions about Thesis&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Thesis need different kinds of technical skills.&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;Nope it doesn’t. There is enough time to learn any kinds of tools/technology that might be required for your work, on the fly. So if not knowing Python/Matlab/Java/Android/R/LaTeX or anything else is stopping you from taking a decision, think about it again. That being said, thesis does require different kind of personal skills. You should be sincere, self-motivated and patient at the least. You will be mostly working independently with guidance from your Prof., many times not realizing what direction your work is going in. Not getting good/expected results will test your patience for sure.&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Thesis doesn’t pay you enough money compared to an internship.&lt;/strong&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;Well yes, in direct comparison stipend offered can be substantially lower than the average stipend given by companies. However, you do save both money and time by not traveling. Since you will be in hostel for these six months, you will be probably paying lesser as rent than those who would have to move out of campus. Plus you get to enjoy campus life/events for another six months. &lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;why-would-you-wanna-do-thesis-&quot;&gt;Why would you wanna do thesis ?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;strong&gt;Very diluted Phd flavor&lt;/strong&gt;: If you dream of taking up a Phd. in future but are not sure about it, then taking up a thesis might help you in making this decision. Although its not comparable to a full-fledged Phd. in any sense, thesis does give you a mild idea of how does it feels like to work independently. You might end up sharing a frustration or two with Phd candidates.&lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Publish paper&lt;/strong&gt;: If you put in enough work you might end up publishing a paper about your work. It is an accomplishment in itself and shows once capability of working under minimal supervision. This could be very helpful in applying for Phd. admissions. &lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Get to know Profs.&lt;/strong&gt;: You will be spending a good amount of time interacting with your Prof. during this period. You will get to know them closely and might end up learning minute nuances of their trade. Working so closely with them and interacting with them on different ideas is a very nice experience. This close interaction also improves your chances of getting a letter of recommendation from them, in case you need it for further studies. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Get to know yourself&lt;/strong&gt;: You get to know a lot about yourself as an individual. Where do your weaknesses stand, what are your strong points, how much pressure can you handle, can you keep yourself self motivated etc. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;You don’t have to travel&lt;/strong&gt;: Saves time, money and keeps you away from the frustration of traffic jams.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Placements&lt;/strong&gt; : Depending on how you plan, you can get time to prepare for full time placements. Staying in campus will be advantageous as you won’t have to travel back on weekends whenever a company visits. However, it is strongly advices to get placements done in the third semester itself. It will give you free mind to work.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;why-wouldnt-you-wanna-do-thesis&quot;&gt;Why wouldn’t you wanna do thesis?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Losing out on some companies&lt;/strong&gt;: Although there will be lots of companies offering stand alone full-time offers, there are quite a few only offering internships. Only way you can get into them is via taking up an internship and then converting it into a full-time offer. Mind you, these can be some good companies, and can prove out to be a disadvantage if you are highly interested in joining any such company. However, if you put in nice enough efforts, chances are that your guide will help you to get interview call for some jobs which are related to your work. There is no official rule / certainty for this, but is still a possibility.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Canteen food&lt;/strong&gt; : If you think canteen food sucks. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Its very easy to lose track&lt;/strong&gt;: With so much time in hand and no one to constantly push/monitor you, its easy to lose track of what you are doing. If you chose to take up thesis without strong motivation, it will be difficult to carry yourself enthusiastically till the end. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;If you get bored easily&lt;/strong&gt;: You will be mostly working on a single idea all this time. You will be reading/implementing a lot, but only in this restricted scope. This can get boring sometimes.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Feeling of ‘my work is a waste’&lt;/strong&gt;: There will be time where you will be feeling that whatever you are doing is just redundant work, most of it already done by others. Understand that even a minor original contribution is an achievements itself. This could be working out an algorithm for different data sets, combining two algorithms to generate a new one, tweaking small changes in any step of the algorithm etc. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;some-advices-if-you-do-decide-to-take-up-thesis&quot;&gt;Some advices if you do decide to take up thesis&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt; We (me, &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt; and &lt;a href=&quot;http://shivam-agarwal.github.io&quot; target=&quot;_blank&quot;&gt;Shivam&lt;/a&gt;) discussed quite a lot as to what could have we done better. Following are some of the things that came up : &lt;/small&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://amit-tomar.github.io/images/ThesisUnplanned.png&quot; alt=&quot;How most thesis work out&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;How most thesis work out&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://amit-tomar.github.io/images/ThesisPlanned.png&quot; alt=&quot;What ideal thesis would look like!&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;What ideal thesis would look like!&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Start early&lt;/strong&gt; :  If you plan to take up thesis, do take a reading elective in the previous semester. One of the major reason for not getting sufficient time to experiment enough is that a lot of time is spend in literature survey. If you take up reading elective, it not only helps you in covering a lot of papers beforehand but also gives you an idea about how comfortable you will be working with the Prof. Doing your RE sincerely is half your work done. Implement the state-of-art papers in this semester only. This will give a lot of time and scope for experimentation during your thesis work. If this part is not done beforehand, it will consume a major chunk of overall thesis time. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Work in groups&lt;/strong&gt; : This is probably something all of us realized at the end of thesis work. Working on a larger common problem could have been more fruitful. We also felt that pair-programming worked great whenever we had worked together earlier. Moreover, each other’s company was a great comfort on its own. If possible do give a thought on taking up thesis as a team of two-three people, if your Prof. allows that. Even if you end up doing thesis in different topics/domain, try setting up your work environment in same Lab/Library etc. It will be highly beneficial both technically and morally. Working alone in your room is not a good idea. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Chart out overall plan&lt;/strong&gt;: &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt; was probably the only person doing this. Making a rough overall plan with time line can be very helpful in planning things up. With so much time in hand, it is very easy to go off track. Just having rough estimates should work out fine. Keep the granularity of your planning at around 15 days. eg. &lt;strong&gt;Week 1-2&lt;/strong&gt; : Reading paper U,V,W and Implementing algorithm X. &lt;strong&gt;Week 3-4&lt;/strong&gt; : Learning GPU programming, implementing parallel version. &lt;strong&gt;Week 5-6&lt;/strong&gt; : Implement algorithm X with changes Y and Z and match performance differences. etc.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Prepare report along with&lt;/strong&gt;: Try not to wait till the last month to begin writing thesis. Take thesis template from any of the seniors and keep filling it throughout the thesis work. Whenever you are conducting any sort of experiments, do write why you conducted, were the outcomes favorables, what was the data set used, save the results with proper labels etc. Not doing this will make it very difficult to recollect all this information at the end. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;strong&gt;Pick Prof. you are comfortable with&lt;/strong&gt;: There are some Profs. which are a little more &lt;em&gt;popular&lt;/em&gt; than others. Try not to follow what everyone’s opinion about a Professor is. See how comfortable you personally are working with them. Taking up a reading elective can help in this process. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Pick a sport&lt;/strong&gt;: Playing sports on regular basis will be very beneficial in keeping you calm. Pick anything from TT/Football/Cricket/Badminton etc. and follow it up regularly. I personally had great experience jogging in the evenings and it helped me a lot by keeping me motivated and charged up during the thesis duration. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Define your thesis topic as precisely as possible&lt;/strong&gt;: Define your problem statement with as minute details as possible. Write down the expected outcomes and overall work you will be doing before hand. Do validate the feasibility of implementing it in the given time frame. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-to-chose-thesis-topics&quot;&gt;How to chose thesis topics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Join some LAB&lt;/strong&gt;: If possible be a part of a lab at IIITB. This will be helpful to give you an idea about various projects/ideas floating around in your domain. Collaborating with MS/Phd. students will also prove beneficial. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Problem statements in your domain&lt;/strong&gt;: There are several website posting interesting real time challenges in different domain. Such problems are very well defined and have clean data sets associated with them. For visualization communities &lt;a href=&quot;http://shivam-agarwal.github.io&quot;&gt;Shivam&lt;/a&gt; suggests looking at problems in &lt;a href=&quot;http://ieeevis.org/&quot;&gt;IEEEVis&lt;/a&gt;, &lt;a href=&quot;http://www.infovis-wiki.net/index.php?title=Main_Page&quot;&gt;InfoVis Wiki&lt;/a&gt;, &lt;a href=&quot;http://www.infovis.org/infovis/&quot;&gt;Old InfoVis competitions&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Different research papers type&lt;/strong&gt;: Read about different &lt;a href=&quot;http://ieeevis.org/year/2012/info/call-participation/paper-submission-guidelines#PaperTypes&quot;&gt;paper types in IEEE&lt;/a&gt;. This can give you an idea about different themes your work can fall in. Eg. coming up with a new algorithm, analyzing some existing algorithm etc. You can then define you problem statement accordingly.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&lt;strong&gt;Read previous years thesis&lt;/strong&gt;: Read up some previous years thesis to see the kind of work done earlier under some Professor. If you like some of the ideas, you can try and extend them in your own thesis work. It will also give a good idea about what a thesis work will feel like in the end.  &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any queries, suggestions, feel free to ask them in comments section or contact any of us directly. We will be happy to help.&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>How startups are changing the way people are interviewed</title>
+   <link href="http://amit-tomar.github.io/personal/2015/06/15/How-Startups-Are-Changing-The-Way-People-Are-Interviewed/"/>
+   <updated>2015-06-15T00:00:00+05:30</updated>
+   <id>http://amit-tomar.github.io/personal/2015/06/15/How-Startups-Are-Changing-The-Way-People-Are-Interviewed</id>
+   <content type="html">&lt;p&gt;&lt;small&gt; This post will be about my experience with getting interviewd by Inkarne.&lt;/small&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="http://amit-tomar.github.io/personal/2015/05/01/Hello-World/"/>
+   <updated>2015-05-01T00:00:00+05:30</updated>
+   <id>http://amit-tomar.github.io/personal/2015/05/01/Hello-World</id>
+   <content type="html">&lt;p&gt;&lt;small&gt;Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;poole&lt;/a&gt; to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated &lt;a href=&quot;https://disqus.com/&quot;&gt;DISQUS&lt;/a&gt; for comments, took some lovely icons from &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;FontAwesome&lt;/a&gt;, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Dotto’s&lt;/a&gt; website is a great inspiration on aesthetics. I hope I will be able to focus more on content now than on the feel of it. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; Feel free to share how it looks now in comments! &lt;/small&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
 
 </feed>

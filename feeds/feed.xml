@@ -3,8 +3,8 @@
 	<channel>
 		<title></title>
 		<description>Info about Amit Tomar and his Blog</description>		
-		<link>amit-tomar.github.io</link>
-		<atom:link href="amit-tomar.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://amit-tomar.github.io</link>
+		<atom:link href="http://amit-tomar.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Doing Thesis, Why and How?</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Thu, 18 Jun 2015 00:00:00 +0530</pubDate>
-				<link>amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
-				<guid isPermaLink="true">amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
+				<link>http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
 			</item>
 		
 			<item>
@@ -30,8 +30,8 @@
 </description>
 				
 				<pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
-				<link>amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
-				<guid isPermaLink="true">amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
+				<link>http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
 			</item>
 		
 	</channel>

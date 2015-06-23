@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title> - Articles</title>
-		<description>Programmer - Runner - Human Being</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<description>Info about Amit Tomar and his Blog</description>
+		<link>amit-tomar.github.io</link>
+		<atom:link href="amit-tomar.github.io/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
-				<title>Choosing Thesis, Why and How?</title>
+				<title>Doing Thesis, Why and How?</title>
 				
 					<description>&lt;p&gt;&lt;big&gt; Recently we defended our respective thesis work of six months at IIITB. This write up describes the overall experience and some suggestions for anyone who might be interested in taking up thesis. &lt;/big&gt; ( With inputs from &lt;a href=&quot;http://shivam-agarwal.github.io&quot;&gt;Shivam&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt;) &lt;/p&gt;
 
 </description>
 				
 				<pubDate>Thu, 18 Jun 2015 00:00:00 +0530</pubDate>
-				<link>http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
-				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
+				<link>amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
+				<guid isPermaLink="true">amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
 			</item>
 			
 		
@@ -31,8 +31,8 @@
 </description>
 				
 				<pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
-				<link>http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
-				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
+				<link>amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
+				<guid isPermaLink="true">amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
 			</item>
 			
 		

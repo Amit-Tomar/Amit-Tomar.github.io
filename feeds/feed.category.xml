@@ -3,24 +3,24 @@
 	<channel>
 		<title> - Personal</title>
 		<description>Posts categorized as 'Personal'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>amit-tomar.github.io</link>
+		<atom:link href="amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 
 	<channel>
 		<title> - Technology</title>
 		<description>Posts categorized as 'Technology'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>amit-tomar.github.io</link>
+		<atom:link href="amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 
 	<channel>
 		<title> - IIITB</title>
 		<description>Posts categorized as 'IIITB'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>amit-tomar.github.io</link>
+		<atom:link href="amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

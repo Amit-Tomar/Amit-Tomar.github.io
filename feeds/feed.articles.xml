@@ -8,6 +8,123 @@
 		
 			
 			<item>
+				<title>Computer Graphics as a stream</title>
+				
+					<description>&lt;p&gt;&lt;big&gt; So you have landed up at IIITB. Decision of chosing up a stream and electives are two decisions that will come back haunting you time and again, regardless of what you decide to tak up. In this blog I focus on the later and that too from a very focused perspective, for people having interest in the areas of graphics, visualization etc. &lt;/big&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;There is no particular specialization &amp;#8216;Computer Graphics&amp;#8217; per se at IIITB, but there is a set of subjects, taken from different streams, which if you can plan and take seriously, will help you build up a very good profile in this domain. Following is the list of subjects that you can take up : &lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Linear algebra and Probability&lt;/strong&gt; | GEN501 (Prof. Neelam Sinha and Prof. Poonacha)&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;I can not emphasize the importance of learning Linear Algebra properly to do any significant work in the field of graphics. From modelling to rendering, simulations to animations, everything rely heavily on LA principles. Being part of prep-sem these courses are covered in a very short span of time and most people are not able to grasp any of it. So, later on, whenever you get time (or rather make sure you make yourself take time for this), make sure that you read up and practise them properly. From Computer Graphics point of view, a light read in the form of &lt;a href=&quot;http://www.amazon.com/dp/1568817231/ref=rdr_ext_tmb&quot; target=&quot;_blank&quot;&gt;Mathematics for 3D graphics and games&lt;/a&gt; is a very good resource. Various LA principles are covered in relation to applications in the field of Computer Graphics. For LA in general I liked &lt;a href=&quot;http://www.amazon.com/Linear-Algebra-Its-Applications-Edition/dp/0201709708&quot; target=&quot;_blank&quot;&gt; Linear Algebra and it&amp;#8217;s Applications &lt;/a&gt; by David Lay. Many people recommend &lt;a href=&quot;http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/&quot; target=&quot;_blank&quot;&gt; Video lectures by Gilbert Strang &lt;/a&gt; and his book &lt;a href=&quot;http://www.amazon.com/Introduction-Linear-Algebra-Fourth-Edition/dp/0980232716&quot; target=&quot;_blank&quot;&gt; Introduction to Linear Algebra &lt;/a&gt; as a good source. &lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;essentials&quot;&gt;Essentials&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Computer Graphics&lt;/strong&gt; | CS606 (Prof. Jaya and Prof. Sreekanth)&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;This course covers fundamentals of Computer Graphics by using OpenGL as programming base. Although it is mostly based on the old OpenGL programming, but the fundamentals are very nicely covered. Do solve all the assignments and go through every paper mentioned in the course notes. These assignments and papers are hand picked and are the papers which you will mostly encounter in industry. Same goes for the papers covered in the Advanced Computer Graphics course. There will be an assignment on modern OpenGL in the form of shaders programming, do take it seriously. If possible take it forward on your own and try to make some small programs using shaders. This will be helpful in your transformation
+to modern OpenGL later on.&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Advanced Computer Graphics&lt;/strong&gt; | CSD602 (Prof. Jaya and Prof. Sreekanth)&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;This course was started in fall 2014 when some of us (read &lt;a href=&quot;https://in.linkedin.com/in/srinivasrvaidya&quot; target=&quot;_blank&quot;&gt; Srinivas &lt;/a&gt;) showed great interest and requested Prof. Jaya and Prof. Sreekanth to
+cover some more topics. This course has several papers from modelling, rendering, animation etc. and covers rather modern advancements in the field of Graphics. I personally find this as the best courses I attended at IIITB. You can&amp;#8217;t have such intellectual freedom in any other course. As said earlier, the set of papers are very very carefuly selected and are almost the essentials for computer graphics students. As far as possible, do not just read the papers, but try implementing them as well. Atleast plan it out with pen and paper as to how these papers could be implemented.&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Introduction to Scientific Computing&lt;/strong&gt; | GEN 601 (Prof. Jaya)&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt;(Unfortunately I did not attend this course . So following content is based on inputs from others)&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; This course covers essential mathematical fundamentals of scientific computing which can be applied to various domains in general. The mathematics learned in this course is not specific to graphics and can be applied to several domains. It is again an assignment based course. Mathematics learned will be very
+helpful if you want to develop some serious physical simulations systems. Depending on time, there might as well be introduction to OpenMP/OpenCL/Matlab/CUDA
+programming which go hand in hand with most Graphics programmers. &lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt; |  (Prof. Jaya)&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small&gt; (Partially audited) This course looks at field of visualization from a practical point of view. Comprises mostly of assignments of which scientific visualization ones are to be done in C++/OpenGL and information visualization ones in mostly HTML/JS/D3.js etc. In case you do not have exposure to OpenGL programming this course would be difficult to manage. It covers several general visualization techniques and provides an overview of various visualizations. If you have inclination towards visualizing data, this is the course for you.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;great-addons&quot;&gt;Great addons&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt;Other than the above mentioned subjects, though not directly related, following subjects do meet with graphics/visualization down the road :&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; PE or RE with Prof. Jaya or Prof. Sreekanth in related ares.&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; Designing Gaming Simulations (CS/NCE 855) | by Prof. Dinesh Babu and Prof. Meijer. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;Geo Information System by Prof. S Rajagopalan&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;general-&quot;&gt;General :&lt;/h3&gt;
+
+&lt;p&gt;&lt;small&gt; General ideas of ML and DSP/DIP also find usage in Computer Graphics in several places: &lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;Machine Learning by Prof. G. Srinivasaraghavan&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;small&gt;DSP | DIP&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;some-good-books-&quot;&gt;Some Good books :&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://www.amazon.com/dp/1568817231/ref=rdr_ext_tmb&quot; target=&quot;_blank&quot;&gt;Mathematics for 3D graphics and games &lt;/a&gt; : Recently stumbled upon it, and my god! If you &amp;#8216;fear&amp;#8217; Linear Algebra by any chance, or find it not interesting enough, try going through this book to get an inuitive understanding about vectors usage in Computer Graphics. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://www.amazon.in/Interactive-Computer-Graphics-Top-Down-Shader-Based/dp/0132545233&quot; target=&quot;_blank&quot;&gt; OpenGL Programming - Top Down approach with Edward Angel&lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://www.amazon.in/OpenGL-Programming-Guide-Official-Learning/dp/0321773039&quot; target=&quot;_blank&quot;&gt;OpenGL Programming - The official guide&lt;/a&gt; &lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;some-good-online-resources--to-be-updated-with-time&quot;&gt;Some good online resources : (To be updated with time)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy&quot; target=&quot;_blank&quot;&gt; SIGGRAPH Video lectures &lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html&quot; target=&quot;_blank&quot;&gt; Computer Graphics course by Ravi Ramamurthy &lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt;&amp;#8216;SIGGRAPH course notes&amp;#8217; for various topics are great resources. From cloth simulation to real time rendering to animation, they cover a lot of state-of-the art topics with moderate level of difficulty. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://www.cc.gatech.edu/~turk/math_gr.html&quot; target=&quot;_blank&quot;&gt; What Mathematics is required for Computer Graphics &lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://kesen.realtimerendering.com/&quot; target=&quot;_blank&quot;&gt;Great collection of resource for CG&lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Thu, 27 Aug 2015 00:00:00 +0530</pubDate>
+				<link>http://amit-tomar.github.io/Masters%20at%20IIITB/2015/08/27/Chosing-Computer-Graphics-As-A-Stream-At-IIITB/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/Masters%20at%20IIITB/2015/08/27/Chosing-Computer-Graphics-As-A-Stream-At-IIITB/</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Doing Thesis, Why and How?</title>
 				
 					<description>&lt;p&gt;&lt;big&gt; Recently we defended our respective thesis work of six months at IIITB. This write up describes the overall experience and some suggestions for anyone who might be interested in taking up thesis. &lt;/big&gt; ( With inputs from &lt;a href=&quot;http://shivam-agarwal.github.io&quot;&gt;Shivam&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/srinivas.r.vaidya&quot;&gt;Srinivas&lt;/a&gt;) &lt;/p&gt;
@@ -15,8 +132,8 @@
 </description>
 				
 				<pubDate>Thu, 18 Jun 2015 00:00:00 +0530</pubDate>
-				<link>http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</link>
-				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/06/18/Thesis-How-and-Why/</guid>
+				<link>http://amit-tomar.github.io/Masters%20at%20IIITB/2015/06/18/Thesis-How-and-Why/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/Masters%20at%20IIITB/2015/06/18/Thesis-How-and-Why/</guid>
 			</item>
 			
 		
@@ -31,8 +148,8 @@
 </description>
 				
 				<pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
-				<link>http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</link>
-				<guid isPermaLink="true">http://amit-tomar.github.io/personal/2015/05/01/Hello-World/</guid>
+				<link>http://amit-tomar.github.io/Personal/2015/05/01/Hello-World/</link>
+				<guid isPermaLink="true">http://amit-tomar.github.io/Personal/2015/05/01/Hello-World/</guid>
 			</item>
 			
 		

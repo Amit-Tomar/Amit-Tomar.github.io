@@ -81,7 +81,28 @@ programming which go hand in hand with most Graphics programmers. &lt;/small&gt;
   &lt;li&gt;&lt;small&gt;DSP | DIP&lt;/small&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;some-good-books-&quot;&gt;Some Good books :&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt; For those having specific intrest in data/information visualization, following courses can be useful : &lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;small&gt;Data Modelling by Prof. R. Chandrashekhar&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;small&gt;Web Information Retrieveal or Information Networks by Prof. Srinath Srinivasa &lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;some-inpirations-for-visualization&quot;&gt;Some inpirations for Visualization&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; Work by &lt;a href=&quot;http://www.edwardtufte.com/tufte/&quot; title=&quot;_blank&quot;&gt;Edward Tufte &lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; Visualization doesn&amp;#8217;t get any beautiful than &lt;a href=&quot;http://www.dear-data.com/&quot; target=&quot;_blank&quot;&gt; this &lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=j9JXtTj0mzE&quot; title=&quot;_blank&quot;&gt;Augmented reality based visualization at UC Davis&lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;good-books-for-computer-graphics-opengl-&quot;&gt;Good books for Computer Graphics (OpenGL) :&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -95,7 +116,9 @@ programming which go hand in hand with most Graphics programmers. &lt;/small&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;some-good-online-resources--to-be-updated-with-time&quot;&gt;Some good online resources : (To be updated with time)&lt;/h3&gt;
+&lt;h3 id=&quot;good-online-resources-for-computer-graphics-opengl&quot;&gt;Good online resources for Computer Graphics (OpenGL)&lt;/h3&gt;
+
+&lt;h4 id=&quot;the-most-standard-resources&quot;&gt;The most standard resources&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -105,8 +128,54 @@ programming which go hand in hand with most Graphics programmers. &lt;/small&gt;
     &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html&quot; target=&quot;_blank&quot;&gt; Computer Graphics course by Ravi Ramamurthy &lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.udacity.com/course/interactive-3d-graphics--cs291&quot; target=&quot;_blank&quot;&gt; Interactive 3d Graphics course &lt;/a&gt; at Udacity. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;small&gt;&amp;#8216;SIGGRAPH course notes&amp;#8217; for various topics are great resources. From cloth simulation to real time rendering to animation, they cover a lot of state-of-the art topics with moderate level of difficulty. &lt;/small&gt;&lt;/p&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: Some of the tutorials mentioned below might be outdated or might not be in alognment with the modern openGL principles. Reader discretion is adviced.&lt;/p&gt;
+
+&lt;h4 id=&quot;youtube-tutorials&quot;&gt;Youtube tutorials&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY&quot; target=&quot;_blank&quot;&gt; 3D Computer Graphics using OpenGL &lt;/a&gt; by Jamie King. &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.youtube.com/playlist?list=PL0AB023E769342AFE&quot; target=&quot;_blank&quot;&gt; OpenGL Tutorial &lt;/a&gt; by TheCPlusPlusGuy &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://www.youtube.com/playlist?list=PL2330214740B33712&quot; target=&quot;_blank&quot;&gt; OpenGL Screencast and Tutorial &lt;/a&gt; by David Parker &lt;/small&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;from-where-and-how-to-learn-opengl-&quot;&gt;From where and how to learn OpenGl ?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://stackoverflow.com/questions/8733663/learning-modern-opengl&quot; target=&quot;_blank&quot;&gt;Learning Modern OpenGL &lt;/a&gt; at StackOverflow. &lt;/small&gt;  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://gamedev.stackexchange.com/questions/1128/what-are-some-good-learning-resources-for-opengl&quot; target=&quot;_blank&quot;&gt; Good learning resource for OpenGL &lt;/a&gt; at Gamedev.stackexchange &lt;/small&gt; &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;online-modern-opengl-tutorials&quot;&gt;Online Modern OpenGL Tutorials&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;https://open.gl/&quot; target=&quot;_blank&quot;&gt;Open.gl&lt;/a&gt; &lt;/small&gt; &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;small&gt; &lt;a href=&quot;learnopengl.com&quot; target=&quot;_blank&quot;&gt;Learn OpenGL&lt;/a&gt; &lt;/small&gt; &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;others&quot;&gt;Others&lt;/h4&gt;
+
+&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;small&gt; &lt;a href=&quot;http://www.cc.gatech.edu/~turk/math_gr.html&quot; target=&quot;_blank&quot;&gt; What Mathematics is required for Computer Graphics &lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
   &lt;/li&gt;

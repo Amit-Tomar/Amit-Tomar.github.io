@@ -62,7 +62,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: rgba(0, 0, 0, 0.8);
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -599,6 +599,6 @@ a.pagination-item:hover {
 }
 
 img{
-    box-shadow: 0 0 10px #DFDFDF;
+    box-shadow: 0 0 5px #DFDFDF;
 }
 

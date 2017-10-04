@@ -3,21 +3,19 @@
 	<channel>
 		<title> - Personal</title>
 		<description>Posts categorized as 'Personal'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Hello World!</title>
 				
-					<description>&lt;p&gt;&lt;small&gt;Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;poole&lt;/a&gt; to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated &lt;a href=&quot;https://disqus.com/&quot;&gt;DISQUS&lt;/a&gt; for comments, took some lovely icons from &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;FontAwesome&lt;/a&gt;, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Dotto&amp;#8217;s&lt;/a&gt; website is a great inspiration on aesthetics. I hope I will be able to focus more on content now than on the feel of it. &lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt; Feel free to share how it looks now in comments! &lt;/small&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;small&gt;Hello. This is my first blog post. Its been so long that I wanted to have a website that could act as a blog-cum-profile. After toiling for more than a week, going through 100s (if not 1000s!) of website and blogs, I realized nothing beats minimalism. And so I have settled down with &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;poole&lt;/a&gt; to be precise. It took me another week to modify the themes and bring down to a point where it has just enough things. I have integrated &lt;a href=&quot;https://disqus.com/&quot;&gt;DISQUS&lt;/a&gt; for comments, took some lovely icons from &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome/&quot;&gt;FontAwesome&lt;/a&gt;, added navigation at the top bar, added page scroller to top, social media icons to share posts, among other. &lt;a href=&quot;http://markdotto.com/&quot;&gt;Mark Dotto’s&lt;/a&gt; website is a great inspiration on aesthetics. I hope I will be able to focus more on content now than on the feel of it. &lt;/small&gt;&lt;/p&gt;
 
 </description>
 				
 				<pubDate>Fri, 01 May 2015 00:00:00 +0530</pubDate>
-				<link>http://amit-tomar.github.io/Personal/2015/05/01/Hello-World/</link>
-				<guid isPermaLink="true">http://amit-tomar.github.io/Personal/2015/05/01/Hello-World/</guid>
+				<link>http://localhost:4000/personal/2015/05/01/Hello-World/</link>
+				<guid isPermaLink="true">http://localhost:4000/personal/2015/05/01/Hello-World/</guid>
 			</item>
 		
 	</channel>
@@ -25,16 +23,16 @@
 	<channel>
 		<title> - Technology</title>
 		<description>Posts categorized as 'Technology'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 
 	<channel>
 		<title> - IIITB</title>
 		<description>Posts categorized as 'IIITB'</description>
-		<link>http://amit-tomar.github.io</link>
-		<atom:link href="http://amit-tomar.github.io/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

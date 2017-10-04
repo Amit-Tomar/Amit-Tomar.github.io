@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+  {% include googleAnalytics.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <!--  Added for RSS Feeds -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feeds/feed.xml">
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a class="homeLink" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <!-- <small>{{ site.tagline }}</small> -->
+<!-- Generates links for all the pages other than the post pages present in the folder -->
+<small>
+  <ul class="nav">
+  {% for node in site.pages %}
+    {% if node.title != nil and node.url != '/' and node.title != '404: Page not found' %}
+      {% capture nodediff %}{{ page.url | remove:node.url }}{% endcapture %}
+      <li><a {% if nodediff != page.url %}class="active" {% endif %}href="{{ node.url }}">{{ node.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</small>
+
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <i class="fa fa-chevron-up fa-3x up-arrow style="display:none""></i>    
+    {% include foot.html %}
+
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+
+       // Scroll page up on clicking the up image
+       $(".up-arrow").click(function(){ $('html, body').animate({ scrollTop: 0 }, 'slow'); });
+
+       window.onscroll = function(ev) 
+       {
+          if ((window.scrollY) >= 10 )
+            $(".up-arrow").show()
+          else 
+            $(".up-arrow").hide()
+       };
+
+       window.onload= function()
+       {
+          if ((window.scrollY) <= 10 )
+          $(".up-arrow").hide()           
+       }
+
+    </script>
+  </body>
+</html>

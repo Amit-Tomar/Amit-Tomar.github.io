@@ -9,7 +9,7 @@ title:               'Amit Tomar'
 tagline:             'At the cusp of Arts and Computer Science..'
 description:         'Info about Amit Tomar and his Blog'
 #url:                'http://127.0.0.1:4000'
-url:		             'http://amit-tomar.github.io'
+url:		             'https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js.github.io'
 baseurl:             ''
 github_username:     'AmitTomar'
 highlighter: 		     pygments
@@ -18,7 +18,7 @@ highlighter: 		     pygments
 # About/contact
 author:
   name:              Amit Tomar
-  url:               'http://amit-tomar.github.io'
+  url:               'https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js.github.io'
   email:             a.tomar@outlook.com
 
 # Custom vars

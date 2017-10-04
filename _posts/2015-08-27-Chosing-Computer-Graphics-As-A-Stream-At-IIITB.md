@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Graphics as a stream
-category: Masters at IIITB
+category: Masters_at_IIITB
 tags:
 - IIITB
 - Computer Graphics

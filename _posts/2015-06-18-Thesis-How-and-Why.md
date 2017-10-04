@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing Thesis, Why and How?
-category: Masters at IIITB
+category: Masters_at_IIITB
 tags:
 - IIITB
 - Thesis

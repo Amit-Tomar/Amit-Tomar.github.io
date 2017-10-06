@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teachers, you might be doing it wrong!
-category: Personal
+category: Teaching
 tags:
 - IIITB
 - Thesis
@@ -78,6 +78,9 @@ Good teachers I know have a very very fair approach towards grading. They give g
 *<small>**There used to be a teacher-student relatioship when we were kids, which is largely missing now in higher level technical education.** </small>
 <small>If you put in enough</small>
 
+
+*<small>**Be open to feeback and be receptive, but go lookout for feedback, like bugs** </small>
+<small>If you put in enough</small>
 
 <br>
 

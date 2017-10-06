@@ -31,7 +31,7 @@ to modern OpenGL later on.</small>
 *	<small>**Advanced Computer Graphics** | CSD602 (Prof. Jaya and Prof. Sreekanth)</small>
 
 <small>This course was started in fall 2014 when some of us (read <a href="https://in.linkedin.com/in/srinivasrvaidya" target="_blank"> Srinivas </a>) showed great interest and requested Prof. Jaya and Prof. Sreekanth to
-cover some more topics. This course has several papers from modelling, rendering, animation etc. and covers rather modern advancements in the field of Graphics. I personally find this as the best courses I attended at IIITB. You can't have such intellectual freedom in any other course. As said earlier, the set of papers are very very carefuly selected and are almost the essentials for computer graphics students. As far as possible, do not just read the papers, but try implementing them as well. Atleast plan it out with pen and paper as to how these papers could be implemented.</small>
+cover some more topics. This course has several papers from modelling, rendering, animation etc. and covers rather modern advancements in the field of Graphics. I personally find this as the best course I attended at IIITB. You can't have such intellectual freedom in any other course. As said earlier, the set of papers are very very carefuly selected and are almost the essentials for computer graphics students. As much as possible, do not just read the papers, but try implementing them as well. Atleast plan it out with pen and paper as to how these papers could be implemented.</small>
 
 *	<small>**Introduction to Scientific Computing** | GEN 601 (Prof. Jaya)</small>
 
@@ -39,7 +39,7 @@ cover some more topics. This course has several papers from modelling, rendering
 
 <small> This course covers essential mathematical fundamentals of scientific computing which can be applied to various domains in general. The mathematics learned in this course is not specific to graphics and can be applied to several domains. It is again an assignment based course. Mathematics learned will be very
 helpful if you want to develop some serious physical simulations systems. Depending on time, there might as well be introduction to OpenMP/OpenCL/Matlab/CUDA
-programming which go hand in hand with most Graphics programmers. </small>
+programming which goes hand in hand with most Graphics programmers. </small>
 
 *	<small>**Data Visualization** |  (Prof. Jaya)</small>
 
@@ -62,13 +62,13 @@ programming which go hand in hand with most Graphics programmers. </small>
 * 	<small>Machine Learning by Prof. G. Srinivasaraghavan</small>
 *	<small>DSP | DIP</small>
 
-<small> For those having specific inetrest in data/information visualization, following courses can be useful : </small>
+<small> For those having specific interest in data/information visualization, following courses can be useful : </small>
 
 * 	<small>Data Modelling by Prof. R. Chandrashekhar</small>
 *	<small>Web Information Retrieveal or Information Networks by Prof. Srinath Srinivasa </small>
 
 
-### Some inpirations for Visualization
+### Some inspirations for Visualization
 
 *	<small> Work by <a href="http://www.edwardtufte.com/tufte/" title="_blank">Edward Tufte </a> </small>
 
@@ -78,7 +78,7 @@ programming which go hand in hand with most Graphics programmers. </small>
 
 ### Good books for Computer Graphics (OpenGL) :
 
-*	<small> <a href="http://www.amazon.com/dp/1568817231/ref=rdr_ext_tmb" target="_blank">Mathematics for 3D graphics and games </a> : Recently stumbled upon it, and my god! If you 'fear' Linear Algebra by any chance, or find it not interesting enough, try going through this book to get an inuitive understanding about vectors usage in Computer Graphics. </small>
+*	<small> <a href="http://www.amazon.com/dp/1568817231/ref=rdr_ext_tmb" target="_blank">Mathematics for 3D graphics and games </a> : Recently stumbled upon it, and my god! If you 'fear' Linear Algebra by any chance, or find it not interesting enough, try going through this book to get an intuitive understanding about vectors usage in Computer Graphics. </small>
 
 *	<small> <a href="http://www.amazon.in/Interactive-Computer-Graphics-Top-Down-Shader-Based/dp/0132545233" target="_blank"> OpenGL Programming - Top Down approach with Edward Angel</a> </small>
 

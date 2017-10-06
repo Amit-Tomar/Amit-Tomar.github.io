@@ -9,16 +9,16 @@ title:               'Amit Tomar'
 tagline:             'At the cusp of Arts and Computer Science..'
 description:         'Info about Amit Tomar and his Blog'
 #url:                'http://127.0.0.1:4000'
-url:		             'https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js.github.io'
+url:		             'https://amit-tomar.github.io'
 baseurl:             ''
 github_username:     'AmitTomar'
-highlighter: 		     pygments
+highlighter: 		      rouge
 #paginate_path: 		 '/postCollection/page:num'
 #paginate:			 2
 # About/contact
 author:
   name:              Amit Tomar
-  url:               'https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js.github.io'
+  url:               'https://amit-tomar.github.io'
   email:             a.tomar@outlook.com
 
 # Custom vars

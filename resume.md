@@ -3,21 +3,21 @@ layout: page
 title: Resume
 ---
 
-<!-- <small>[Download PDF Version](/assets/AmitTomar_Resume.pdf)</small>  -->
+<small>[Download PDF Version](/assets/AmitTomar_Resume2019.pdf)</small>
 
-<small> <strong>Keywords</strong>: Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Operating Systems, Automotive Infotainments, Middleware components. </small> <br/>
+<small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs. </small> <br/>
 
 <i class="fa fa-user fa-lg"></i> About
 
 <small>
-Amit Tomar is currently Group Development Manager at <a href="http://www.avataar.me/" target="_blank">Avataar.Me</a>, an augmented reality company, innovating on an immersive fashion mCommerce experience using cutting edge 3D computer vision technologies. 
+Amit Tomar is currently Group Development Manager at <a href="http://www.avataar.me/" target="_blank">Avataar.Me</a>, an augmented reality company, innovating on an immersive fashion mCommerce experience using cutting edge 3D computer vision technologies.
 </small>
 
 <small> Earlier he was a masters student at <a href="http://www.iiitb.ac.in/" target='_blank'>IIIT Bangalore</a>, India. He was a member of <a href="http://www.iiitb.ac.in/GVCL/index.html" target='_blank'>Graphic-Visualization-Computing Lab</a> , working under the guidance of <a href="https://www.iiitb.ac.in/faculty_page.php?name=jayasreevalsannair" target='_blank'>Prof. Jaya Sreevalsan-Nair</a> . His work involved modelling and visualizations for small world networks.  <br/> </small>
 
 <small> Before joining masters, he worked at <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target='_blank'> Embedded Innovation Labs</a>, Tata Consultancy Services for around two and half years. His work included design and development of UI and middleware frameworks for high end In-Vehicle Infotainment systems.<br/> </small>
 
-<i class="fa fa-university fa-lg"></i> Education 
+<i class="fa fa-university fa-lg"></i> Education
 
 * <small><strong>M.Tech. in IT</strong> , <a href="http://www.iiitb.ac.in/" target='_blank'>IIIT Bangalore</a>. <strong>CGPA : 3.22/4</strong></small> <small class='date-duration'> 2013-2015 </small> <br/>
 <small> <!-- 2013 - 2015 | --> <strong>Thesis:</strong> <a href="https://www.iiitb.ac.in/GVCL/pubs/2016_AgarwalTomarSreevalsanNair_preprint.pdf" target='_blank'>Augmenting NodeTrix for Effective Small World Network Visualization</a>. </small>
@@ -31,24 +31,31 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
  * <small><strong>Class 10th</strong> , CBSE, <a href="http://apsmeerut.com/" target='_blank'>Army Public School</a>,  Meerut Cantt. <strong>81.6%</strong> </small> <small class='date-duration'> 2002 </small>
 
 
-<i class="fa fa-book fa-lg"></i> Publications 
-
-* <small>Agarwal S., Tomar A., Sreevalsan-Nair J. (2017) <strong> <a href="https://link.springer.com/chapter/10.1007/978-3-319-50901-3_46" target='_blank'> NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks. </a></strong> In: Cherifi H., Gaito S., Quattrociocchi W., Sala A. (eds) Complex Networks & Their Applications V. COMPLEX NETWORKS 2016 2016. Studies in Computational Intelligence, vol 693. Springer, Cham <br/>
 
 <i class="fa fa-briefcase fa-lg"></i> Work Experience
 
 
 * <small><strong>Group Development Manager</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> Dec 2015 - Currently</small> <br/>
+<small> Managed design and development of 3D graphical assets generation pipeline for virtual garments and Avataars. </small>
+	* <small> Implemented several 3D graphics related tools for seamless 3D content generation and consumption. </small>
+	* <small> Automated several pipeline tasks using Blender Python scripting. </small>
+	* <small> Implemented RESTful APIs over AWS for providing various Avataar operations in the form of PaaS. </small>
+	* <small> Implemented ThreeJS based web-renderer for user Avataar and apparels. </small>
+<p> </p>
 
-* <small><strong>Technology Lead</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> July 2015 - Nov 2015</small> <br/>
-<!-- <small> Assisted <a href="https://www.iiitb.ac.in/faculty_page.php?name=chandrashekarramanathan" target='_blank'> Prof. R Chandrashekhar</a> in teaching and helped students understand and debug assignments. </small>
- --><br/>
+* <small><strong>Technology Lead</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> July 2015 - Nov 2015</small> <br>
+<small> Managed design and development of tool suite for fashion team. </small>
+	* <small>Designed and developed a graphical tool suite for apparel designing professionals to virtually create 3D apparels.</small>
+	* <small>Worked on performance analysis and enhancement of internal cloth simulation engine. </small>
+
+<p> </p>
+
 * <small><strong>Teaching Assistant</strong>, Introductory C Programming, IIIT-Bangalore.</small> <small class='date-duration'> July 2014</small> <br/>
 <small> Assisted <a href="https://www.iiitb.ac.in/faculty_page.php?name=chandrashekarramanathan" target='_blank'> Prof. R Chandrashekhar</a> in teaching and helped students understand and debug assignments. </small>
 
 * <small><strong>Systems Engineer</strong>, <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target='_blank'> Embedded Innovation Labs</a>, <a href="http://www.tcs.com" target='_blank'> TCS.</a> </small><small class='date-duration'> Dec 2010 - July 2013</small> <br/>
 <small> Was part of design and development teams for HMI and middleware frameworks for several In-Vehicle Infotainment Systems. </small>
-	
+
 	* <small>Next generation IVI systems for year 2020 : Honda Motors R&D Lab</small>
 		* <small>Involved in design & implementation of IPC mechanism agnostic IPC Framework based on message queues.</small>
 		* <small>Developed Auto-Code-Generator for Interprocess Communication Framework.</small>
@@ -66,24 +73,30 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 <i class="fa fa-code fa-lg"></i> Technical Skills
 
 * <strong><small>Expertise -</small> </strong> <small> Rapid product prototyping, Product UI/UX design and development. </small> <br/>
-* <strong><small>Intermediate -</small> </strong> <small> C (C99), C++, Qt-5.0, Python 2.7, Amazon Web Services (AWS), Linux, POSIX Message queues, D-Bus, RESTful Web Services, Product performance analysis and enhancement, GIMP. </small> <br/>
-* <strong><small>Introduction -</small> </strong> <small> OpenGL, BOOST, HTML, JavaScript, D3.js, Bootstrap, Micro-Controllers. </small> <br/>
-
-<i class="fa fa-trophy fa-lg"></i> Honors and Awards
-
-* <small><strong>Most Valuable Performer of Quarter, </strong>Avataar.Me</small>  <small class='date-duration'> July-Sep 2017 </small>
-* <small><strong>99.08 %ile in GATE 2013</strong></small> <small class='date-duration'> July 2013 </small>
-* <small><strong>Technical Excellence Award, </strong>Embedded Innovation Lab, TCS</small>  <small class='date-duration'> June 2013 </small>
-* <small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class='date-duration'> Nov 2012 </small>
-* <small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class='date-duration'> Feb 2012 </small>
+* <strong><small>Intermediate -</small> </strong> <small> C, C++11, Qt-5.0, QML, OpenGl 3.3, ThreeJS, Python 2.7, Flask, Amazon Web Services (AWS),  RESTful APIs, Product performance analysis. </small> <br/>
+* <strong><small>Introduction -</small> </strong> <small> HTML, JavaScript, D3.js, Bootstrap, Micro-Controllers, Linux, POSIX Message queues, D-Bus. </small> <br/>
 
 <i class="fa fa-code-fork fa-lg"></i> Open Source Contributions
 
 * <small> <a href="http://gcompris.net/index-en.html" target='_blank'> GCompris (A GNU package) </a>  </small>  <small class='date-duration'> Jan 2014 - March 2014 </small> <br/>
 <small>GCompris is a high quality, educational, software suite comprising of numerous activities for children aged 2 to 10. Implemented the Qt Quick version of game 'Missing Letter' and 'Tower of Hanoi', <a href='https://github.com/bdoin/GCompris-qt/graphs/contributors' target='_blank'>contributing around 1000 LOC</a>.</small>
 
+<i class="fa fa-book fa-lg"></i> Publications
+
+* <small>Agarwal S., Tomar A., Sreevalsan-Nair J. (2017) <strong> <a href="https://link.springer.com/chapter/10.1007/978-3-319-50901-3_46" target='_blank'> NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks. </a></strong> In: Cherifi H., Gaito S., Quattrociocchi W., Sala A. (eds) Complex Networks & Their Applications V. COMPLEX NETWORKS 2016 2016. Studies in Computational Intelligence, vol 693. Springer, Cham <br/>
+
+<i class="fa fa-trophy fa-lg"></i> Honors and Awards
+
+* <small><strong>Most Valuable Performer of Quarter, </strong>Avataar.Me</small>  <small class='date-duration'> Oct-Dec 2018 </small>
+* <small><strong>Most Valuable Performer of Quarter, </strong>Avataar.Me</small>  <small class='date-duration'> July-Sep 2017 </small>
+* <small><strong>99.08 %ile in GATE 2013</strong></small> <small class='date-duration'> July 2013 </small>
+* <small><strong>Technical Excellence Award, </strong>Embedded Innovation Lab, TCS</small>  <small class='date-duration'> June 2013 </small>
+* <small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class='date-duration'> Nov 2012 </small>
+* <small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class='date-duration'> Feb 2012 </small>
+
 <i class="fa fa-users fa-lg"></i> Projects
 
+* <small>[Ray casting based direct volume rendering for medical data analysis](/projects/#volRendering)</small>
 * <small>[Visualization for Security Analytics](/projects/#emc)</small>
 * <small>[Minimalistic Kernel Development](/projects/#kernel)</small>
 * <small>[Copy-Dog : Augmented Suffix Tree for Software Plagiarism Checking](/projects/#copyDog)</small>
@@ -104,7 +117,7 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 	* <a href='http://www.timingindia.com/beta/my-result-details/MTIwNDE6dGltaW5nX3IxMzA1X2JlbncxMGtfbmlrZV9mYWNlX29mZl9fbWVu#head' target='_blank'><small>TCS Open 10K 2013</small></a>
 	* <a href='http://ifim.edu.in/kanyathon/' target='_blank'><small>Kanyathon 8K 2013</small></a>
 	* <small>TCS Open 5K 2012</small>
-	
+
 <i class="fa fa-thumbs-up fa-lg"></i> Interests
 
 * <small> Running </small>

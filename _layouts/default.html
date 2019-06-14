@@ -17,7 +17,8 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a class="homeLink" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <!-- <a class="homeLink" href="{{ site.baseurl }}/" title="Home"> {{ site.title }}</a> -->
+            <a class="homeLink" href="{{ site.baseurl }}/" title="Home"> Home </a>
             <!-- <small>{{ site.tagline }}</small> -->
 <!-- Generates links for all the pages other than the post pages present in the folder -->
 <small>
@@ -42,7 +43,7 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <i class="fa fa-chevron-up fa-3x up-arrow style="display:none""></i>    
+    <i class="fa fa-chevron-up fa-3x up-arrow style="display:none""></i>
     {% include foot.html %}
 
 
@@ -66,18 +67,18 @@
        // Scroll page up on clicking the up image
        $(".up-arrow").click(function(){ $('html, body').animate({ scrollTop: 0 }, 'slow'); });
 
-       window.onscroll = function(ev) 
+       window.onscroll = function(ev)
        {
           if ((window.scrollY) >= 10 )
             $(".up-arrow").show()
-          else 
+          else
             $(".up-arrow").hide()
        };
 
        window.onload= function()
        {
           if ((window.scrollY) <= 10 )
-          $(".up-arrow").hide()           
+          $(".up-arrow").hide()
        }
 
     </script>

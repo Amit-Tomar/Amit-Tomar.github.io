@@ -12,4 +12,4 @@ You can catch me up on one of these platforms-
 * <i class="fa fa-stack-overflow fa-lg"></i> <a href='http://stackoverflow.com/users/1093223/amit-tomar' target='_blank'>StackOverflow</a> - In case you would like to follow QML question/answers.
 
 * or simply <i class="fa fa-envelope-o fa-lg"></i>
- [Email Me](mailto:a.tomar@outlook.com) !
+ [Email Me](mailto:amit.tomar@iiitb.org) !

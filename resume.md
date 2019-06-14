@@ -5,7 +5,9 @@ title: Resume
 
 <small>[Download PDF Version](/assets/AmitTomar_Resume2019.pdf)</small>
 
-<small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs. </small> <br/>
+<small>IT generalist with 6+ years of experience in Frontend (UI, 3D Computer Graphics), Middleware & Backend (RESTful APIs).</small>
+
+<small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs, Microservices. </small> <br/>
 
 <i class="fa fa-user fa-lg"></i> About
 
@@ -36,12 +38,14 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 
 
 * <small><strong>Group Development Manager</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> Dec 2015 - Currently</small> <br/>
-<small> Managed design and development of 3D graphical assets generation pipeline for virtual garments and Avataars. </small>
-	* <small> Implemented several 3D graphics related tools for seamless 3D content generation and consumption. </small>
-	* <small> Automated several pipeline tasks using Blender Python scripting. </small>
-	* <small> Implemented RESTful APIs over AWS for providing various Avataar operations in the form of PaaS. </small>
-	* <small> Implemented ThreeJS based web-renderer for user Avataar and apparels. </small>
+<small> Handling the fashion-technology vertical and developing backend for 3D graphical assets generation pipeline ofvirtual garments and user Avataars. </small>
+	* <small> Implemented highly scalable RESTful APIs hosted over AWS for providing various Avataar operations as PaaS. </small>
+    * <small> Implemented fashion content pipeline by developing desktop based applications to transform and store 3D data. </small>
+    * <small> Implemented OpenGL/ThreeJS based renderers for user Avataar and apparels. </small>
+    * <small> Implemented several 3D graphics tools and automated tasks for seamless 3D content generation and consumption. </small>
 <p> </p>
+
+
 
 * <small><strong>Technology Lead</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> July 2015 - Nov 2015</small> <br>
 <small> Managed design and development of tool suite for fashion team. </small>
@@ -72,9 +76,15 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 
 <i class="fa fa-code fa-lg"></i> Technical Skills
 
-* <strong><small>Expertise -</small> </strong> <small> Rapid product prototyping, Product UI/UX design and development. </small> <br/>
-* <strong><small>Intermediate -</small> </strong> <small> C, C++11, Qt-5.0, QML, OpenGl 3.3, ThreeJS, Python 2.7, Flask, Amazon Web Services (AWS),  RESTful APIs, Product performance analysis. </small> <br/>
-* <strong><small>Introduction -</small> </strong> <small> HTML, JavaScript, D3.js, Bootstrap, Micro-Controllers, Linux, POSIX Message queues, D-Bus. </small> <br/>
+* <strong><small>Frontend -</small> </strong> <small> HTML, Javascript, jQuery, Bootstrap, D3.js, Three.js, Google-Filament, Qt, QML, OpenGL-3.3, Blender. </small> <br/>
+* <strong><small>Backend -</small> </strong> <small> Python, Flask, SQL-Alchemy, Redis, Celery, nGINX, Gunicorn, Swagger, RESTful APIs, Microservices, BeautifulSoup, Springboot, MySQL, Postman. </small> <br/>
+* <strong><small>Cloud -</small> </strong> <small> AWS (EC2, ECS, S3, Route 53, RDS, Lambda, Beanstalk, Cloudfront), Docker, Boto3. </small> <br/>
+* <strong><small>Systems -</small> </strong> <small> C, C++11, Message Queue, D-BUS, Microcontrollers. </small> <br/>
+
+<!-- * <strong><small>Expertise -</small> </strong> <small> Rapid product prototyping, Product UI/UX design and development. </small> <br/>
+* <strong><small>Intermediate -</small> </strong> <small> C, C++11, Qt-5.0, QML, OpenGl 3.3, ThreeJS, Python 2.7, Flask, Amazon Web Services (AWS), SQL-Alchemy, RESTful APIs, Product performance analysis. </small> <br/>
+* <strong><small>Introduction -</small> </strong> <small> HTML, JavaScript, D3.js, Bootstrap, Micro-Controllers, Linux, POSIX Message queues, D-Bus. </small> <br/> -->
+
 
 <i class="fa fa-code-fork fa-lg"></i> Open Source Contributions
 

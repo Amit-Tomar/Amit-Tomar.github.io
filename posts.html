@@ -6,8 +6,8 @@ title:  Blog
 <!-- <small> <i class="fa fa-rss-square fa-lg"></i> <a href= {{ site.baseurl }}/feeds/feed.xml target='_blank'>Subscribe to the RSS Feed</a> </small> -->
 
  {% for category in site.categories %}
- 
-     <div id="{{ category | first | remove:' ' }}">     
+
+     <div id="{{ category | first | remove:' ' }}">
          <h2>{{ category | first | capitalize }}</h2>
          <ul>
             {% for posts in category %}
@@ -15,7 +15,7 @@ title:  Blog
                 {% if post.url %}
                   <li>
                     <a href="{{ post.url }}">
-                      {{ post.title }}                      
+                      {{ post.title }}
                     </a>
                     <time class='archive-date'>{{ post.date | date: "%-d %B %Y" }}</time>
                   </li>
@@ -29,9 +29,9 @@ title:  Blog
 
 Page generated: {{ site.time | date_to_string }}
 
-<!-- 
+<!--
 <div class="posts">
-  {% for post in site.posts%} 
+  {% for post in site.posts%}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ paginator.url }}{{ post.url }}">
@@ -43,7 +43,7 @@ Page generated: {{ site.time | date_to_string }}
 
     {{ post.content }}
   </div>
-  {% endfor %} -->  
+  {% endfor %} -->
 
 <!-- <div class="pagination">
   {% if paginator.next_page %}

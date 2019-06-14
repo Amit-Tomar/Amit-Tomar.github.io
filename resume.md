@@ -9,7 +9,7 @@ title: Resume
 
 <small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs, Microservices. </small> <br/>
 
-<i class="fa fa-user fa-lg"></i> About
+<!-- <i class="fa fa-user fa-lg"></i> About
 
 <small>
 Amit Tomar is currently Group Development Manager at <a href="http://www.avataar.me/" target="_blank">Avataar.Me</a>, an augmented reality company, innovating on an immersive fashion mCommerce experience using cutting edge 3D computer vision technologies.
@@ -17,7 +17,7 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 
 <small> Earlier he was a masters student at <a href="http://www.iiitb.ac.in/" target='_blank'>IIIT Bangalore</a>, India. He was a member of <a href="http://www.iiitb.ac.in/GVCL/index.html" target='_blank'>Graphic-Visualization-Computing Lab</a> , working under the guidance of <a href="https://www.iiitb.ac.in/faculty_page.php?name=jayasreevalsannair" target='_blank'>Prof. Jaya Sreevalsan-Nair</a> . His work involved modelling and visualizations for small world networks.  <br/> </small>
 
-<small> Before joining masters, he worked at <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target='_blank'> Embedded Innovation Labs</a>, Tata Consultancy Services for around two and half years. His work included design and development of UI and middleware frameworks for high end In-Vehicle Infotainment systems.<br/> </small>
+<small> Before joining masters, he worked at <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target='_blank'> Embedded Innovation Labs</a>, Tata Consultancy Services for around two and half years. His work included design and development of UI and middleware frameworks for high end In-Vehicle Infotainment systems.<br/> </small> -->
 
 <i class="fa fa-university fa-lg"></i> Education
 

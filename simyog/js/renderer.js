@@ -24,7 +24,7 @@ function initThree() {
 	const light = new THREE.HemisphereLight(skyColor, groundColor, backgroundIntensity);
 	scene.add(light);
 	const objLoader = new THREE.OBJLoader2();
-	objLoader.load('../assets/currentDensity.obj', (event) => {
+	objLoader.load('./assets/currentDensity.obj', (event) => {
 		const root = event.detail.loaderRootNode;
 		scene.add(root);
 	});

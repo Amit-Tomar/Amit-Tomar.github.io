@@ -1,0 +1,173 @@
+I"~4<p><small><a href="/assets/AmitTomar_Resume2019.pdf">Download PDF Version</a></small></p>
+
+<p><small>IT generalist with 6+ years of experience in Frontend (UI, 3D Computer Graphics), Middleware &amp; Backend (RESTful APIs).</small></p>
+
+<p><small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs, Microservices. </small> <br /></p>
+
+<!-- <i class="fa fa-user fa-lg"></i> About
+
+<small>
+Amit Tomar is currently Group Development Manager at <a href="http://www.avataar.me/" target="_blank">Avataar.Me</a>, an augmented reality company, innovating on an immersive fashion mCommerce experience using cutting edge 3D computer vision technologies.
+</small>
+
+<small> Earlier he was a masters student at <a href="http://www.iiitb.ac.in/" target='_blank'>IIIT Bangalore</a>, India. He was a member of <a href="http://www.iiitb.ac.in/GVCL/index.html" target='_blank'>Graphic-Visualization-Computing Lab</a> , working under the guidance of <a href="https://www.iiitb.ac.in/faculty_page.php?name=jayasreevalsannair" target='_blank'>Prof. Jaya Sreevalsan-Nair</a> . His work involved modelling and visualizations for small world networks.  <br/> </small>
+
+<small> Before joining masters, he worked at <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target='_blank'> Embedded Innovation Labs</a>, Tata Consultancy Services for around two and half years. His work included design and development of UI and middleware frameworks for high end In-Vehicle Infotainment systems.<br/> </small> -->
+
+<p><i class="fa fa-university fa-lg"></i> Education</p>
+
+<ul>
+  <li>
+    <p><small><strong>M.Tech. in IT</strong> , <a href="http://www.iiitb.ac.in/" target="_blank">IIIT Bangalore</a>. <strong>CGPA : 3.22/4</strong></small> <small class="date-duration"> 2013-2015 </small> <br />
+<small> <!-- 2013 - 2015 | --> <strong>Thesis:</strong> <a href="https://www.iiitb.ac.in/GVCL/pubs/2016_AgarwalTomarSreevalsanNair_preprint.pdf" target="_blank">Augmenting NodeTrix for Effective Small World Network Visualization</a>. </small></p>
+  </li>
+  <li>
+    <p><small><strong>B.Tech. (Honors) in CSE</strong> , <a href="https://aktu.ac.in/" target="_blank">UP Technical University</a>. <strong>75.5%</strong> </small><small class="date-duration"> 2006-2010 </small> <br /></p>
+
+    <!-- <small> Computer Science and Engineering. </small> <br/>
+ -->
+    <p><small><strong>Dissertation :</strong> <a href="https://sites.google.com/site/tabatlcs/home" target="_blank"> Traffic analysis based automatic traffic light control </a> </small><br /></p>
+  </li>
+  <li>
+    <p><small><strong>Class 12th</strong> , CBSE, <a href="http://apsmeerut.com/" target="_blank">Army Public School</a>, Meerut Cantt. <strong>78.6%</strong></small> <small class="date-duration"> 2004 </small></p>
+  </li>
+  <li>
+    <p><small><strong>Class 10th</strong> , CBSE, <a href="http://apsmeerut.com/" target="_blank">Army Public School</a>, Meerut Cantt. <strong>81.6%</strong> </small> <small class="date-duration"> 2002 </small></p>
+  </li>
+</ul>
+
+<p><i class="fa fa-briefcase fa-lg"></i> Work Experience</p>
+
+<ul>
+  <li>
+    <p><small><strong>Software Engineer</strong>, <a href="http://www.ck12.org" target="_blank">CK-12 Foundation</a></small> <small class="date-duration"> Aug 2019 - Currently</small> <br />
+<small> Working on development of 2D/3D tools and interactive content for K-12 education. </small></p>
+
+    <p> </p>
+  </li>
+  <li><small><strong>Group Development Manager</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class="date-duration"> Dec 2015 - July 2019</small> <br />
+<small> Handling the fashion-technology vertical and developing backend for 3D graphical assets generation pipeline ofvirtual garments and user Avataars. </small>
+_ <small> Implemented highly scalable RESTful APIs hosted over AWS for providing various Avataar operations as PaaS. </small>
+_ <small> Implemented fashion content pipeline by developing desktop based applications to transform and store 3D data. </small>
+_ <small> Implemented OpenGL/ThreeJS based renderers for user Avataar and apparels. </small>
+_ <small> Implemented several 3D graphics tools and automated tasks for seamless 3D content generation and consumption. </small>
+    <p> </p>
+  </li>
+  <li><small><strong>Technology Lead</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class="date-duration"> July 2015 - Nov 2015</small> <br />
+<small> Managed design and development of tool suite for fashion team. </small>
+_ <small>Designed and developed a graphical tool suite for apparel designing professionals to virtually create 3D apparels.</small>
+_ <small>Worked on performance analysis and enhancement of internal cloth simulation engine. </small></li>
+</ul>
+
+<p> </p>
+
+<ul>
+  <li>
+    <p><small><strong>Teaching Assistant</strong>, Introductory C Programming, IIIT-Bangalore.</small> <small class="date-duration"> July 2014</small> <br />
+<small> Assisted <a href="https://www.iiitb.ac.in/faculty_page.php?name=chandrashekarramanathan" target="_blank"> Prof. R Chandrashekhar</a> in teaching and helped students understand and debug assignments. </small></p>
+  </li>
+  <li>
+    <p><small><strong>Systems Engineer</strong>, <a href="http://www.tata.in/innovation/articlesinside/TCS-innovation-labs" target="_blank"> Embedded Innovation Labs</a>, <a href="http://www.tcs.com" target="_blank"> TCS.</a> </small><small class="date-duration"> Dec 2010 - July 2013</small> <br />
+<small> Was part of design and development teams for HMI and middleware frameworks for several In-Vehicle Infotainment Systems. </small></p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* &lt;small&gt;Next generation IVI systems for year 2020 : Honda Motors R&amp;D Lab&lt;/small&gt;
+	* &lt;small&gt;Involved in design &amp; implementation of IPC mechanism agnostic IPC Framework based on message queues.&lt;/small&gt;
+	* &lt;small&gt;Developed Auto-Code-Generator for Interprocess Communication Framework.&lt;/small&gt;
+
+* &lt;small&gt;New generation IVI systems : Beijing Automotive Industry Holding Co. Ltd.&lt;/small&gt;
+	* &lt;small&gt;Developed UI and controllers for Audio/Video Player, Web Browser, Navigation, HandsFree, News Feed, Clock, Track A Friend, IP Radio, Image Viewer, Application Store, Weather etc.&lt;/small&gt;
+	* &lt;small&gt;Developed System Components Manager for synchronization among several system components.&lt;/small&gt;
+
+* &lt;small&gt;IVI generation II : Embedded Innovation Lab - TCS&lt;/small&gt;
+	* &lt;small&gt;Involved in design &amp; implementation of HMI tool agnostic HMI framework.&lt;/small&gt;
+	* &lt;small&gt;Worked with the team in attaining GENIVI compliance 1.0 for TCS X-86 platform.&lt;/small&gt;
+	* &lt;small&gt;Worked in the requirement gathering phase of Telematics Application Framework.&lt;/small&gt;
+	* &lt;small&gt;Gave product and framework demonstrations to several prospective customers.&lt;/small&gt;
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p><i class="fa fa-code fa-lg"></i> Technical Skills</p>
+
+<ul>
+  <li><strong><small>Frontend -</small> </strong> <small> HTML, Javascript, jQuery, Bootstrap, D3.js, Three.js, Google-Filament, Qt, QML, OpenGL-3.3, Blender. </small> <br /></li>
+  <li><strong><small>Backend -</small> </strong> <small> Python, Flask, SQL-Alchemy, Redis, Celery, nGINX, Gunicorn, Swagger, RESTful APIs, Microservices, BeautifulSoup, Springboot, MySQL, Postman. </small> <br /></li>
+  <li><strong><small>Cloud -</small> </strong> <small> AWS (EC2, ECS, S3, Route 53, RDS, Lambda, Beanstalk, Cloudfront), Docker, Boto3. </small> <br /></li>
+  <li><strong><small>Systems -</small> </strong> <small> C, C++11, Message Queue, D-BUS, Microcontrollers. </small> <br /></li>
+</ul>
+
+<!-- * <strong><small>Expertise -</small> </strong> <small> Rapid product prototyping, Product UI/UX design and development. </small> <br/>
+* <strong><small>Intermediate -</small> </strong> <small> C, C++11, Qt-5.0, QML, OpenGl 3.3, ThreeJS, Python 2.7, Flask, Amazon Web Services (AWS), SQL-Alchemy, RESTful APIs, Product performance analysis. </small> <br/>
+* <strong><small>Introduction -</small> </strong> <small> HTML, JavaScript, D3.js, Bootstrap, Micro-Controllers, Linux, POSIX Message queues, D-Bus. </small> <br/> -->
+
+<p><i class="fa fa-code-fork fa-lg"></i> Open Source Contributions</p>
+
+<ul>
+  <li><small> <a href="http://gcompris.net/index-en.html" target="_blank"> GCompris (A GNU package) </a> </small> <small class="date-duration"> Jan 2014 - March 2014 </small> <br />
+<small>GCompris is a high quality, educational, software suite comprising of numerous activities for children aged 2 to 10. Implemented the Qt Quick version of game ‘Missing Letter’ and ‘Tower of Hanoi’, <a href="https://github.com/bdoin/GCompris-qt/graphs/contributors" target="_blank">contributing around 1000 LOC</a>.</small></li>
+</ul>
+
+<p><i class="fa fa-book fa-lg"></i> Publications and Patents</p>
+
+<ul>
+  <li>
+    <p><small>Agarwal S., Tomar A., Sreevalsan-Nair J. (2017) <strong> <a href="https://link.springer.com/chapter/10.1007/978-3-319-50901-3_46" target="_blank"> NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks. </a></strong> In: Cherifi H., Gaito S., Quattrociocchi W., Sala A. (eds) Complex Networks &amp; Their Applications V. COMPLEX NETWORKS 2016 2016. Studies in Computational Intelligence, vol 693. Springer, Cham <br /></small></p>
+  </li>
+  <li>
+    <p><small>Agarwal S., Tomar A., Sreevalsan-Nair J. (2017) <strong> <a href="https://patents.justia.com/patent/20190266806" target="_blank"> Virtual representation creation of user for fit and style of apparel and accessories </a></strong> <br /></small></p>
+  </li>
+</ul>
+
+<p><i class="fa fa-trophy fa-lg"></i> Honors and Awards</p>
+
+<ul>
+  <li><small><strong>Most Valuable Performer of Quarter, </strong>Avataar.Me</small> <small class="date-duration"> Oct-Dec 2018 </small></li>
+  <li><small><strong>Most Valuable Performer of Quarter, </strong>Avataar.Me</small> <small class="date-duration"> July-Sep 2017 </small></li>
+  <li><small><strong>99.08 %ile in GATE 2013</strong></small> <small class="date-duration"> July 2013 </small></li>
+  <li><small><strong>Technical Excellence Award, </strong>Embedded Innovation Lab, TCS</small> <small class="date-duration"> June 2013 </small></li>
+  <li><small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class="date-duration"> Nov 2012 </small></li>
+  <li><small><strong>Employee of the month, </strong> Embedded Innovation Lab, TCS </small><small class="date-duration"> Feb 2012 </small></li>
+</ul>
+
+<p><i class="fa fa-users fa-lg"></i> Projects</p>
+
+<ul>
+  <li><small><a href="/projects/#volRendering">Ray casting based direct volume rendering for medical data analysis</a></small></li>
+  <li><small><a href="/projects/#emc">Visualization for Security Analytics</a></small></li>
+  <li><small><a href="/projects/#kernel">Minimalistic Kernel Development</a></small></li>
+  <li><small><a href="/projects/#copyDog">Copy-Dog : Augmented Suffix Tree for Software Plagiarism Checking</a></small></li>
+  <li><small><a href="/projects/#loop">Loop Subdivision algorithm for Interactive Surface Modeling</a></small></li>
+  <li><small><a href="/projects/#sceneGraph">Animating Hierarchical Object Models using Custom Scenegraph</a></small></li>
+  <li><small><a href="/projects/#tabatlc">Traffic Analysis Based Automatic Traffic Light Controller </a></small></li>
+  <li><small><a href="/projects/#hobby">Package of Games for Energy Saving</a></small></li>
+</ul>
+
+<p><i id="extraCurricular" class="fa fa-futbol-o fa-lg"></i> Extra Curricular</p>
+
+<ul>
+  <li><small><a href="https://www.behance.net/gallery/14363073/IIITB-Spandan-2014" target="_blank">Designed posters</a> and was part of PR team for annual sports meet SPANDAN at IIITB</small> <small class="date-duration"> 2014 </small></li>
+  <li>
+    <p><small>Sucessfully completed <em>mini marathons</em> - </small></p>
+
+    <ul>
+      <li><a href="https://www.sportzify.com/city/Bengaluru/2FF574FTXh" target="_blank"><small>Patriot Run 10K 2016</small></a></li>
+      <li><a href="http://www.timingindia.com/beta/my-result-details/MTYxODM6dGltaW5nX3IxNTA1X2JlbncxMGtfb3Blbl8xMGs=#head" target="_blank"><small>TCS Open 10K 2015</small></a></li>
+      <li><a href="http://www.timingindia.com/beta/my-result-details/MTU0MTQ6dGltaW5nX3IxNDA1X2JlbncxMGtfZWxpdGU=#head" target="_blank"><small>TCS Open 10K 2014</small></a></li>
+      <li><a href="http://www.timingindia.com/beta/my-result-details/MTIwNDE6dGltaW5nX3IxMzA1X2JlbncxMGtfbmlrZV9mYWNlX29mZl9fbWVu#head" target="_blank"><small>TCS Open 10K 2013</small></a></li>
+      <li><a href="http://ifim.edu.in/kanyathon/" target="_blank"><small>Kanyathon 8K 2013</small></a></li>
+      <li><small>TCS Open 5K 2012</small></li>
+    </ul>
+  </li>
+</ul>
+
+<p><i class="fa fa-thumbs-up fa-lg"></i> Interests</p>
+
+<ul>
+  <li><small> Running </small></li>
+  <li><small> Movie Reviewing </small></li>
+  <li><small> Digital Painting </small></li>
+  <li><small> <a href="http://www.behance.net/amitTomar" target="_blank">Infographics</a></small></li>
+</ul>
+
+<p>Thanks for reading! Feel free to <a href="/contact">Contact</a> me..</p>
+:ET

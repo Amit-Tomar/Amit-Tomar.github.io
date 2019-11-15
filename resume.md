@@ -36,15 +36,18 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 
 <i class="fa fa-briefcase fa-lg"></i> Work Experience
 
+* <small><strong>Software Engineer</strong>, <a href="http://www.ck12.org" target="_blank">CK-12 Foundation</a></small> <small class='date-duration'> Aug 2019 - Currently</small> <br/>
+  <small> Working on development of 2D/3D tools and interactive content for K-12 education. </small>
 
-* <small><strong>Group Development Manager</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> Dec 2015 - Currently</small> <br/>
-<small> Handling the fashion-technology vertical and developing backend for 3D graphical assets generation pipeline ofvirtual garments and user Avataars. </small>
-	* <small> Implemented highly scalable RESTful APIs hosted over AWS for providing various Avataar operations as PaaS. </small>
-    * <small> Implemented fashion content pipeline by developing desktop based applications to transform and store 3D data. </small>
-    * <small> Implemented OpenGL/ThreeJS based renderers for user Avataar and apparels. </small>
-    * <small> Implemented several 3D graphics tools and automated tasks for seamless 3D content generation and consumption. </small>
-<p> </p>
+  <p> </p>
 
+* <small><strong>Group Development Manager</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> Dec 2015 - July 2019</small> <br/>
+  <small> Handling the fashion-technology vertical and developing backend for 3D graphical assets generation pipeline ofvirtual garments and user Avataars. </small>
+  * <small> Implemented highly scalable RESTful APIs hosted over AWS for providing various Avataar operations as PaaS. </small>
+  * <small> Implemented fashion content pipeline by developing desktop based applications to transform and store 3D data. </small>
+  * <small> Implemented OpenGL/ThreeJS based renderers for user Avataar and apparels. </small>
+  * <small> Implemented several 3D graphics tools and automated tasks for seamless 3D content generation and consumption. </small>
+  <p> </p>
 
 
 * <small><strong>Technology Lead</strong>, <a href="http://www.avataar.me/" target="_blank">Avataar.Me.</a></small> <small class='date-duration'> July 2015 - Nov 2015</small> <br>
@@ -91,9 +94,11 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 * <small> <a href="http://gcompris.net/index-en.html" target='_blank'> GCompris (A GNU package) </a>  </small>  <small class='date-duration'> Jan 2014 - March 2014 </small> <br/>
 <small>GCompris is a high quality, educational, software suite comprising of numerous activities for children aged 2 to 10. Implemented the Qt Quick version of game 'Missing Letter' and 'Tower of Hanoi', <a href='https://github.com/bdoin/GCompris-qt/graphs/contributors' target='_blank'>contributing around 1000 LOC</a>.</small>
 
-<i class="fa fa-book fa-lg"></i> Publications
+<i class="fa fa-book fa-lg"></i> Publications and Patents
 
 * <small>Agarwal S., Tomar A., Sreevalsan-Nair J. (2017) <strong> <a href="https://link.springer.com/chapter/10.1007/978-3-319-50901-3_46" target='_blank'> NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks. </a></strong> In: Cherifi H., Gaito S., Quattrociocchi W., Sala A. (eds) Complex Networks & Their Applications V. COMPLEX NETWORKS 2016 2016. Studies in Computational Intelligence, vol 693. Springer, Cham <br/>
+
+* <small>Sravanth Aluru, Gaurav Baid, Amit Tomar (2019) <strong> <a href="https://patents.justia.com/patent/20190266806" target='_blank'> Virtual representation creation of user for fit and style of apparel and accessories </a></strong> <br/>
 
 <i class="fa fa-trophy fa-lg"></i> Honors and Awards
 

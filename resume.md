@@ -5,7 +5,7 @@ title: Resume
 
 <small>[Download PDF Version](/assets/AmitTomar_Resume2019.pdf)</small>
 
-<small>IT generalist with 6+ years of experience in Frontend (UI, 3D Computer Graphics), Middleware & Backend (RESTful APIs).</small>
+<small>IT generalist with 8+ years of experience in Frontend (UI, 3D Computer Graphics), Middleware & Backend (RESTful APIs).</small>
 
 <small> <strong>Keywords</strong>: 3D Computer Graphics, UI/UX design and development, Product Usability, Information and Scientific Visualization, Automotive Infotainments, Middleware components, RESTful APIs, Microservices. </small> <br/>
 
@@ -36,8 +36,12 @@ Amit Tomar is currently Group Development Manager at <a href="http://www.avataar
 
 <i class="fa fa-briefcase fa-lg"></i> Work Experience
 
-* <small><strong>Software Engineer</strong>, <a href="http://www.ck12.org" target="_blank">CK-12 Foundation</a></small> <small class='date-duration'> Aug 2019 - Currently</small> <br/>
-  <small> Working on development of 2D/3D tools and interactive content for K-12 education. </small>
+* <small><strong>SDE-III</strong>, <a href="https://www.livspace.com" target="_blank">Livspace</a></small> <small class='date-duration'> Nov 2020 - Currently</small> <br/>
+
+  <p> </p>
+
+* <small><strong>Software Engineer</strong>, <a href="http://www.ck12.org" target="_blank">CK-12 Foundation</a></small> <small class='date-duration'> Aug 2019 - Oct 2020 </small> <br/>
+  <small> Worked on development of 2D/3D tools and interactive content for K-12 education. </small>
 
   <p> </p>
 

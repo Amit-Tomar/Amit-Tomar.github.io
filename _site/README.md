@@ -1,3 +1,0 @@
-# Amit-Tomar
-
-Amit Tomar.

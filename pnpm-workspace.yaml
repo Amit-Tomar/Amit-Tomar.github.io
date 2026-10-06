@@ -1,0 +1,3 @@
+allowBuilds:
+  '@vercel/speed-insights': false
+  sharp: false

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1476" height="616" viewBox="0 0 1476 616">
+  <g stroke="currentColor" fill="none" stroke-width="6" stroke-linecap="round">
+    <path d="M78 293 H1404"/>
+    <path d="M78 293 V313 M299 293 V313 M528 293 V313 M752 293 V313 M994 293 V313 M1226 293 V313 M1404 293 V313"/>
+    <path d="M76 179 H528 M76 164 V194 M528 164 V194"/>
+    <path d="M527 440 H749 M527 426 V455 M749 426 V455"/>
+    <path d="M752 179 H1103 M752 164 V194 M1103 164 V194"/>
+    <path d="M1105 440 H1328 M1105 426 V455 M1328 426 V455"/>
+  </g>
+  <g fill="currentColor" font-size="2.6rem" text-anchor="middle">
+    <text x="302" y="147">Reading papers</text>
+    <text x="927.5" y="131">Implementation</text>
+    <text x="78" y="366">Jan</text><text x="299" y="366">Feb</text><text x="528" y="366">March</text><text x="752" y="366">April</text><text x="994" y="366">May</text><text x="1226" y="366">June</text>
+    <text x="638" y="533">Deciding topic</text>
+    <text x="1216.5" y="533">Documentation</text>
+  </g>
+</svg>

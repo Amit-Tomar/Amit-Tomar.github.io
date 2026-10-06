@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="979" viewBox="0 0 2048 979">
+  <g stroke="currentColor" fill="none" stroke-width="6" stroke-linecap="round">
+    <path d="M221 390 H1753"/>
+    <path d="M221 370 V410 M620 375 V405 M809 375 V405 M1003 375 V405 M1196 375 V405 M1403 375 V405 M1601 375 V405 M1753 375 V405"/>
+    <path d="M225 320 H616 M225 307 V334 M616 307 V334"/>
+    <path d="M618 519 H910 M618 505 V533 M910 505 V533"/>
+    <path d="M910 349 H1113 M910 335 V363 M1113 335 V363"/>
+    <path d="M1112 516 H1599 M1112 502 V530 M1599 502 V530"/>
+    <path d="M617 770 H1718 M617 756 V784 M1718 756 V784"/>
+    <path d="M410 416 C412 505, 352 567, 249 579"/>
+    <path d="M1118 318 C1170 205, 1245 181, 1336 223"/>
+    <path d="M1322 198 L1338 223 L1309 230"/>
+  </g>
+  <g fill="currentColor" font-size="2.6rem" text-anchor="middle">
+    <text x="420.5" y="296">Literature Survey</text>
+    <text x="170" y="527">Third Sem</text><text x="170" y="586">Reading</text><text x="170" y="645">Elective</text>
+    <text x="620" y="458">Jan</text><text x="809" y="458">Feb</text><text x="1003" y="458">March</text><text x="1196" y="458">April</text><text x="1403" y="458">May</text><text x="1601" y="458">June</text>
+    <text x="764" y="588">Deciding Topic</text>
+    <text x="1011.5" y="70">Learn</text><text x="1011.5" y="129">Technology</text><text x="1011.5" y="188">and</text><text x="1011.5" y="247">Implement</text><text x="1011.5" y="306">Basic Idea</text>
+    <text x="1410" y="247">Mid-Term Validation</text>
+    <text x="1355.5" y="561">Core Implementation</text>
+    <text x="1167.5" y="832">Documentation</text>
+  </g>
+</svg>

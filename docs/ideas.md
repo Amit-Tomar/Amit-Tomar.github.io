@@ -1,0 +1,1 @@
+--> Have a user controlled umbrella and ran drops falling and getting splashed away from it.

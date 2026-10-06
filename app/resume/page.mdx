@@ -1,0 +1,164 @@
+export const metadata = {
+  title: 'Resume',
+  description:
+    'Resume of Amit Tomar — IT generalist with 8+ years of experience.',
+}
+
+<div className="mb-6">
+  <a
+    href="/assets/Amit_Tomar_Resume_2026.pdf"
+    className="font-medium hover:underline"
+  >
+    {'Download PDF resume'}
+  </a>
+</div>
+
+<ResumeTimeline>
+  <ResumeSingleRoleCompany
+    name="Autodesk"
+    logo="/images/experience/autodesk.png"
+    href="https://www.autodesk.com/"
+    title="Principal Engineer"
+    employment="Autodesk · Full-time"
+    dates="May 2025 - Present · 1 yr 6 mos"
+    location="Bengaluru, Karnataka, India"
+  >
+    Autodesk Operations Solutions: Digital Factory twins and simulations.
+  </ResumeSingleRoleCompany>
+
+  <ResumeSingleRoleCompany
+    name="Livspace"
+    logo="/images/experience/livspace.png"
+    href="https://www.livspace.com/"
+    title="SDE-III"
+    employment="Livspace · Full-time"
+    dates="Nov 2020 - May 2025 · 4 yrs 7 mos"
+    location="Bengaluru, Karnataka, India"
+  >
+    Developed scalable, photorealistic cloud rendering pipeline and web-based 2D
+    floor planning & 3D interior design applications.
+  </ResumeSingleRoleCompany>
+
+  <ResumeSingleRoleCompany
+    name="CK-12 Foundation"
+    logo="/images/experience/ck12.png"
+    href="https://www.ck12.org/"
+    title="Software Engineer"
+    employment="CK-12 Foundation · Full-time"
+    dates="Aug 2019 - Nov 2020 · 1 yr 4 mos"
+    location="Greater Bengaluru Area"
+  >
+    Created highly interactive 2D and 3D educational tools on web to improve
+    engagement and learning outcomes for K-12 students.
+  </ResumeSingleRoleCompany>
+
+  <ResumeMultiRoleCompany
+    name="Avataar"
+    logo="/images/experience/avataar.png"
+    href="https://www.avataar.ai/"
+    tenure="4 yrs 1 mo"
+  >
+    <ResumePatent href="https://patents.google.com/patent/US20190266806A1/en">
+      Virtual representation creation of user for fit and style of apparel and
+      accessories
+    </ResumePatent>
+    <ResumeMultiRoles>
+      <ResumeMultiRole
+        title="Group Development Manager"
+        employment="Full-time"
+        dates="Dec 2015 - Jul 2019 · 3 yrs 8 mos"
+        location="Bengaluru, Karnataka, India"
+        showNestedLine={true}
+      >
+        Early product development at 3D fashion and AR/VR startup, transforming
+        user selfies into customizable digital avatars with interchangeable clothes,
+        hairstyles, and accessories.
+      </ResumeMultiRole>
+      <ResumeMultiRole
+        title="Technology Lead"
+        employment=""
+        dates="Jul 2015 - Nov 2015 · 5 mos"
+        location="Greater Bengaluru Area"
+        showNestedLine={false}
+      >
+        Worked on cloud-based avatar management pipelines, web configurators, and
+        cloth pattern design & simulation systems.
+      </ResumeMultiRole>
+    </ResumeMultiRoles>
+  </ResumeMultiRoleCompany>
+
+  <ResumeEducationCompany
+    name="International Institute of Information Technology Bangalore"
+    logo="/images/education/iiitb.png"
+    href="https://www.iiitb.ac.in/"
+    degree="Master of Technology - MTech, Information Technology"
+    years="2013 – 2015"
+  >
+    <ResumeEducation>
+      <ResumeEducationRole
+        title="Student"
+        grade="3.22 / 4"
+        thesis="Augmenting NodeTrix for Effective Small World Network Visualization"
+        thesisUrl="https://www.iiitb.ac.in/GVCL/pubs/2016_AgarwalTomarSreevalsanNair_preprint.pdf"
+        showNestedLine={true}
+      >
+        <ResumePublication href="https://link.springer.com/chapter/10.1007/978-3-319-50901-3_46">
+          NodeTrix-Multiplex: Visual Analytics of Multiplex Small World Networks
+        </ResumePublication>
+        <ResumeProjectList>
+          <ResumeProject
+            title="Ray casting based direct volume rendering for medical data analysis"
+          />
+          <ResumeProject
+            title="Minimalistic Kernel Development"
+            codeUrl="https://github.com/Amit-Tomar/MinimalisticKernelDevelopment"
+            videoUrl="http://youtu.be/bfOs_qJfGmQ"
+          />
+          <ResumeProject
+            title="Augmented Suffix Tree for Software Plagiarism Checking"
+            codeUrl="https://github.com/Amit-Tomar/Parametrized-String-Matching-Implementation-for-Software-Plagiarism-Check"
+            videoUrl="https://www.youtube.com/watch?v=gvgXswJuV-4"
+          />
+          <ResumeProject
+            title="Loop Subdivision algorithm for Interactive Surface Modeling"
+            codeUrl="https://github.com/Amit-Tomar/Loop-Subdivision-For-Interactive-Surface-Modelling"
+            videoUrl="https://www.youtube.com/watch?v=6gyJPrcR2Ps"
+          />
+          <ResumeProject
+            title="Animating Hierarchical Object Models using Custom Scenegraph"
+            codeUrl="https://github.com/Amit-Tomar/Animating-Hierarchical-Object-Models-Using-Custom-Scenegraph"
+            videoUrl="https://www.youtube.com/watch?v=r3AJuxILlng"
+          />
+        </ResumeProjectList>
+      </ResumeEducationRole>
+      <ResumeEducationRole title="Teaching Assistant" showNestedLine={false}>
+        <ResumeLine>Introductory C Programming, IIIT-Bangalore.</ResumeLine>
+        <ResumeLine>Computer Graphics, IIIT-Bangalore.</ResumeLine>
+      </ResumeEducationRole>
+    </ResumeEducation>
+  </ResumeEducationCompany>
+
+  <ResumeSingleRoleCompany
+    name="Tata Consultancy Services"
+    logo="/images/experience/tcs.png"
+    href="https://www.tcs.com/"
+    title="Systems Engineer"
+    employment="Tata Consultancy Services · Full-time"
+    dates="Dec 2010 - Jul 2013 · 2 yrs 8 mos"
+    location="Embedded Innovation Lab"
+  >
+    Designed and prototyped embedded HMI systems and middleware frameworks for
+    next-generation automotive infotainment systems.
+  </ResumeSingleRoleCompany>
+
+  <ResumeEducationCompany
+    name="Meerut Institute of Engineering and Technology(MIET)"
+    logo="/images/education/miet.png"
+    href="https://www.miet.ac.in/"
+    degree="Bachelor of Technology (B.Tech.) with Honours, Computer science"
+    years="2006 – 2010"
+    grade="75.5 %"
+    thesis="Traffic Analysis Based Automatic Traffic Light Controller"
+    thesisUrl="https://sites.google.com/site/tabatlcs/"
+  />
+</ResumeTimeline>

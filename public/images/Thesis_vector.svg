@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="669" viewBox="0 0 1260 669">
+  <rect width="1260" height="669" fill="white"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#333">
+    <!-- left matrix labels -->
+    <g text-anchor="end">
+      <text x="162" y="128">Hollan</text><text x="162" y="146">Bederson</text><text x="162" y="164">Ring</text>
+      <text x="162" y="182">Helftman</text><text x="162" y="200">Hightower</text><text x="162" y="218">Hollan</text>
+      <text x="162" y="236">Stewart</text><text x="162" y="254">Proft</text><text x="162" y="272">Druin</text><text x="162" y="290">Grosjean</text>
+    </g>
+    <g transform="translate(181,104)">
+      <text transform="rotate(-90)" x="0" y="0">Hollan</text>
+      <text transform="rotate(-90)" x="0" y="18">Bederson</text>
+      <text transform="rotate(-90)" x="0" y="36">Ring</text>
+      <text transform="rotate(-90)" x="0" y="54">Helftman</text>
+      <text transform="rotate(-90)" x="0" y="72">Hightower</text>
+      <text transform="rotate(-90)" x="0" y="90">Hollan</text>
+      <text transform="rotate(-90)" x="0" y="108">Stewart</text>
+      <text transform="rotate(-90)" x="0" y="126">Proft</text>
+      <text transform="rotate(-90)" x="0" y="144">Druin</text>
+      <text transform="rotate(-90)" x="0" y="162">Grosjean</text>
+    </g>
+  </g>
+
+  <!-- left 10x10 matrix -->
+  <g transform="translate(172,116)" stroke="#777" stroke-width="0.7">
+    <rect width="160" height="162" fill="#fff" stroke="none"/>
+    <!-- base black cells except a few special ones -->
+    <g fill="#000">
+      <!-- row 1 -->
+      <rect x="0" y="0" width="16" height="16"/><rect x="16" y="0" width="16" height="16" fill="#aaa"/><rect x="32" y="0" width="16" height="16" fill="#888"/><rect x="48" y="0" width="16" height="16" fill="#888"/><rect x="64" y="0" width="16" height="16" fill="#888"/><rect x="80" y="0" width="16" height="16" fill="#888"/><rect x="96" y="0" width="16" height="16" fill="#888"/><rect x="112" y="0" width="16" height="16" fill="#888"/><rect x="128" y="0" width="16" height="16" fill="#888"/><rect x="144" y="0" width="16" height="16" fill="#888"/>
+      <!-- row 2 -->
+      <rect x="0" y="16" width="16" height="16" fill="#ddd"/><rect x="16" y="16" width="16" height="16"/><rect x="32" y="16" width="16" height="16" fill="#ddd"/><rect x="48" y="16" width="16" height="16" fill="#ddd"/><rect x="64" y="16" width="16" height="16" fill="#ddd"/><rect x="80" y="16" width="16" height="16" fill="#ddd"/><rect x="96" y="16" width="16" height="16" fill="#ddd"/><rect x="112" y="16" width="16" height="16" fill="#ddd"/><rect x="128" y="16" width="16" height="16" fill="#ddd"/><rect x="144" y="16" width="16" height="16" fill="#fff"/>
+      <!-- rows 3-10 mostly black with first columns light -->
+      <rect x="0" y="32" width="16" height="16" fill="#bbb"/><rect x="16" y="32" width="16" height="16" fill="#eee"/><rect x="32" y="32" width="128" height="16"/>
+      <rect x="0" y="48" width="16" height="16" fill="#bbb"/><rect x="16" y="48" width="16" height="16" fill="#eee"/><rect x="32" y="48" width="128" height="16"/>
+      <rect x="0" y="64" width="16" height="16" fill="#bbb"/><rect x="16" y="64" width="16" height="16" fill="#eee"/><rect x="32" y="64" width="128" height="16"/>
+      <rect x="0" y="80" width="16" height="16" fill="#bbb"/><rect x="16" y="80" width="16" height="16" fill="#eee"/><rect x="32" y="80" width="128" height="16"/>
+      <rect x="0" y="96" width="16" height="16" fill="#bbb"/><rect x="16" y="96" width="16" height="16" fill="#eee"/><rect x="32" y="96" width="128" height="16"/>
+      <rect x="0" y="112" width="16" height="16" fill="#bbb"/><rect x="16" y="112" width="16" height="16" fill="#eee"/><rect x="32" y="112" width="128" height="16"/>
+      <rect x="0" y="128" width="16" height="16" fill="#bbb"/><rect x="16" y="128" width="16" height="16" fill="#eee"/><rect x="32" y="128" width="128" height="16"/>
+      <rect x="0" y="144" width="16" height="18" fill="#bbb"/><rect x="16" y="144" width="16" height="18" fill="#eee"/><rect x="32" y="144" width="128" height="18"/>
+    </g>
+  </g>
+
+  <!-- lower matrix labels -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#333">
+    <g text-anchor="end">
+      <text x="409" y="542">Milash</text><text x="409" y="560">Rose</text><text x="409" y="578">Widoff</text><text x="409" y="596">Doan</text><text x="409" y="614">Carr</text><text x="409" y="632">Fekete</text><text x="409" y="650">Plaisant</text>
+    </g>
+    <g transform="translate(427,513)">
+      <text transform="rotate(-90)" x="0" y="0">Milash</text><text transform="rotate(-90)" x="0" y="18">Rose</text><text transform="rotate(-90)" x="0" y="36">Widoff</text><text transform="rotate(-90)" x="0" y="54">Doan</text><text transform="rotate(-90)" x="0" y="72">Carr</text><text transform="rotate(-90)" x="0" y="90">Fekete</text><text transform="rotate(-90)" x="0" y="108">Plaisant</text>
+    </g>
+  </g>
+  <g transform="translate(418,529)" stroke="#777" stroke-width="0.7">
+    <!-- 7x7 matrix 16.5 -->
+    <g>
+      <rect x="0" y="0" width="112" height="112" fill="#fff" stroke="none"/>
+      <!-- rows -->
+      <g fill="#000">
+        <rect x="0" y="0" width="16" height="16"/><rect x="16" y="0" width="16" height="16"/><rect x="32" y="0" width="16" height="16" fill="#666"/><rect x="48" y="0" width="16" height="16" fill="#555"/><rect x="64" y="0" width="16" height="16" fill="#888"/><rect x="80" y="0" width="16" height="16" fill="#aaa"/><rect x="96" y="0" width="16" height="16" fill="#eee"/>
+        <rect x="0" y="16" width="16" height="16"/><rect x="16" y="16" width="16" height="16"/><rect x="32" y="16" width="16" height="16" fill="#555"/><rect x="48" y="16" width="16" height="16" fill="#555"/><rect x="64" y="16" width="16" height="16" fill="#777"/><rect x="80" y="16" width="16" height="16" fill="#aaa"/><rect x="96" y="16" width="16" height="16" fill="#ddd"/>
+        <rect x="0" y="32" width="16" height="16"/><rect x="16" y="32" width="16" height="16"/><rect x="32" y="32" width="16" height="16" fill="#444"/><rect x="48" y="32" width="16" height="16" fill="#555"/><rect x="64" y="32" width="16" height="16" fill="#777"/><rect x="80" y="32" width="16" height="16" fill="#aaa"/><rect x="96" y="32" width="16" height="16" fill="#ddd"/>
+        <rect x="0" y="48" width="16" height="16" fill="#333"/><rect x="16" y="48" width="16" height="16" fill="#333"/><rect x="32" y="48" width="16" height="16" fill="#444"/><rect x="48" y="48" width="16" height="16"/><rect x="64" y="48" width="16" height="16"/><rect x="80" y="48" width="16" height="16" fill="#aaa"/><rect x="96" y="48" width="16" height="16" fill="#ddd"/>
+        <rect x="0" y="64" width="16" height="16" fill="#555"/><rect x="16" y="64" width="16" height="16" fill="#555"/><rect x="32" y="64" width="16" height="16" fill="#555"/><rect x="48" y="64" width="16" height="16"/><rect x="64" y="64" width="16" height="16"/><rect x="80" y="64" width="16" height="16" fill="#aaa"/><rect x="96" y="64" width="16" height="16" fill="#ddd"/>
+        <rect x="0" y="80" width="16" height="16" fill="#666"/><rect x="16" y="80" width="16" height="16" fill="#666"/><rect x="32" y="80" width="16" height="16" fill="#666"/><rect x="48" y="80" width="16" height="16"/><rect x="64" y="80" width="16" height="16"/><rect x="80" y="80" width="16" height="16" fill="#fff"/><rect x="96" y="80" width="16" height="16" fill="#ddd"/>
+        <rect x="0" y="96" width="16" height="16" fill="#bbb"/><rect x="16" y="96" width="16" height="16" fill="#bbb"/><rect x="32" y="96" width="16" height="16" fill="#bbb"/><rect x="48" y="96" width="16" height="16" fill="#ddd"/><rect x="64" y="96" width="16" height="16" fill="#ddd"/><rect x="80" y="96" width="16" height="16" fill="#ddd"/><rect x="96" y="96" width="16" height="16"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- right matrix -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#333">
+    <g text-anchor="end">
+      <text x="1040" y="231">Hopkins</text><text x="1040" y="249">Callahan</text><text x="1040" y="267">Weiser</text><text x="1040" y="285">Botafo(go)</text><text x="1040" y="303">Rivlin</text><text x="1040" y="321">Tanin</text><text x="1040" y="339">Beigel</text><text x="1040" y="357">Jain</text><text x="1040" y="375">Weiland</text><text x="1040" y="393">Williamson</text><text x="1040" y="411">Shneiderman</text>
+    </g>
+    <g transform="translate(1063,205)">
+      <text transform="rotate(-90)" x="0" y="0">Hopkins</text><text transform="rotate(-90)" x="0" y="18">Callahan</text><text transform="rotate(-90)" x="0" y="36">Weiser</text><text transform="rotate(-90)" x="0" y="54">Botafo(go)</text><text transform="rotate(-90)" x="0" y="72">Rivlin</text><text transform="rotate(-90)" x="0" y="90">Tanin</text><text transform="rotate(-90)" x="0" y="108">Beigel</text><text transform="rotate(-90)" x="0" y="126">Jain</text><text transform="rotate(-90)" x="0" y="144">Weiland</text><text transform="rotate(-90)" x="0" y="162">Williamson</text><text transform="rotate(-90)" x="0" y="180">Shneiderman</text>
+    </g>
+  </g>
+  <g transform="translate(1054,219)" stroke="#777" stroke-width="0.7">
+    <rect width="176" height="176" fill="#fff" stroke="none"/>
+    <g fill="#000">
+      <!-- 11x11, mostly black first 9x9, white strips -->
+      <rect x="0" y="0" width="144" height="144"/>
+      <rect x="144" y="0" width="16" height="160" fill="#ddd"/><rect x="160" y="0" width="16" height="160" fill="#fff"/>
+      <rect x="0" y="144" width="144" height="16" fill="#ddd"/><rect x="144" y="144" width="16" height="16" fill="#ddd"/><rect x="160" y="144" width="16" height="16" fill="#fff"/>
+      <rect x="0" y="160" width="144" height="16" fill="#fff"/><rect x="144" y="160" width="16" height="16" fill="#ddd"/><rect x="160" y="160" width="16" height="16"/>
+    </g>
+    <!-- grid lines -->
+    <g stroke="#444" stroke-width="0.6">
+      <path d="M16 0V176M32 0V176M48 0V176M64 0V176M80 0V176M96 0V176M112 0V176M128 0V176M144 0V176M160 0V176"/>
+      <path d="M0 16H176M0 32H176M0 48H176M0 64H176M0 80H176M0 96H176M0 112H176M0 128H176M0 144H176M0 160H176"/>
+    </g>
+  </g>
+
+  <!-- connectors -->
+  <g fill="none" stroke="#cfcfcf" stroke-width="3">
+    <path d="M196 286 C195 390, 285 390, 470 340 C650 290, 940 80, 1120 28 C1200 5,1242 36,1221 137"/>
+    <path d="M196 286 C200 360, 260 420, 430 350"/>
+    <path d="M326 286 C322 350, 329 426, 430 350"/>
+    <path d="M196 286 C196 386, 220 450, 465 338 C495 325, 520 370, 520 474"/>
+    <path d="M326 286 C326 400, 350 430, 470 350 C500 330, 530 380, 530 474"/>
+  </g>
+  <g fill="none" stroke="#cfcfcf" stroke-width="3">
+    <path d="M538 536 C700 536, 730 390, 1054 389"/>
+    <path d="M538 552 C720 552, 730 390, 1054 389"/>
+    <path d="M538 568 C735 568, 745 390, 1054 389"/>
+    <path d="M538 584 C750 584, 760 390, 1054 389"/>
+    <path d="M538 600 C765 600, 770 390, 1054 389"/>
+    <path d="M538 616 C780 616, 790 390, 1054 389"/>
+    <path d="M538 632 C800 632, 800 390, 1054 389"/>
+  </g>
+</svg>

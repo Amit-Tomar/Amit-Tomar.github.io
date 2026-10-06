@@ -1,42 +1,50 @@
-import { baseUrl } from 'app/sitemap'
-import { getBlogPosts } from 'app/blog/utils'
+import { getBlogPosts } from '@/lib/blog'
+import { baseUrl, defaultDescription, siteName } from '@/lib/site'
+
+export const dynamic = 'force-static'
+
+function escapeXml(text: string): string {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;')
+}
 
 export async function GET() {
-  let allBlogs = await getBlogPosts()
+  const posts = getBlogPosts().sort(
+    (a, b) =>
+      new Date(b.metadata.publishedAt).getTime() -
+      new Date(a.metadata.publishedAt).getTime(),
+  )
 
-  const itemsXml = allBlogs
-    .sort((a, b) => {
-      if (new Date(a.metadata.publishedAt) > new Date(b.metadata.publishedAt)) {
-        return -1
-      }
-      return 1
-    })
+  const items = posts
     .map(
-      (post) =>
-        `<item>
-          <title>${post.metadata.title}</title>
-          <link>${baseUrl}/blog/${post.slug}</link>
-          <description>${post.metadata.summary || ''}</description>
-          <pubDate>${new Date(
-            post.metadata.publishedAt
-          ).toUTCString()}</pubDate>
-        </item>`
+      (post) => `
+    <item>
+      <title>${escapeXml(post.metadata.title)}</title>
+      <link>${baseUrl}/blog/${post.slug}/</link>
+      <description>${escapeXml(post.metadata.summary)}</description>
+      <pubDate>${new Date(post.metadata.publishedAt).toUTCString()}</pubDate>
+      <guid isPermaLink="true">${baseUrl}/blog/${post.slug}/</guid>
+    </item>`,
     )
-    .join('\n')
+    .join('')
 
-  const rssFeed = `<?xml version="1.0" encoding="UTF-8" ?>
-  <rss version="2.0">
-    <channel>
-        <title>Amit Tomar</title>
-        <link>${baseUrl}</link>
-        <description>Info about Amit Tomar and his blog</description>
-        ${itemsXml}
-    </channel>
-  </rss>`
+  const rssFeed = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>${escapeXml(siteName)}</title>
+    <link>${baseUrl}/</link>
+    <description>${escapeXml(defaultDescription)}</description>
+    ${items}
+  </channel>
+</rss>`
 
   return new Response(rssFeed, {
     headers: {
-      'Content-Type': 'text/xml',
+      'Content-Type': 'application/rss+xml; charset=utf-8',
     },
   })
 }

@@ -1,6 +1,6 @@
 packages:
-  - '.'
+  - "."
 
 allowBuilds:
-  '@vercel/speed-insights': false
+  "@vercel/speed-insights": false
   sharp: false

@@ -42,6 +42,10 @@ html.dark {
   background-color: var(--color-black);
 }
 
+a[href] {
+  cursor: pointer;
+}
+
 /* Disqus "Auto" scheme: light when inherited color is #000–#787878, else dark. */
 #disqus_thread {
   color: #171717;
@@ -65,7 +69,8 @@ html.dark #disqus_thread {
   @apply visible;
 }
 
-.prose a {
+.prose a,
+.resume-page a {
   @apply underline transition-all decoration-neutral-400/50 dark:decoration-neutral-600/50 hover:decoration-neutral-400 dark:hover:decoration-neutral-600 underline-offset-2 decoration-[0.1em];
 }
 
